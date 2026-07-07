@@ -13,4 +13,9 @@ Method: AIOE replication · Descriptive analysis
 
 ---
 
+## [Research Journal →](https://minjtheninja.github.io/journal.html)
+A running log of methods and skills acquired across projects.
+
+---
+
 *More projects coming soon.*
