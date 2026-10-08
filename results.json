@@ -1,0 +1,794 @@
+{
+  "totals": [
+    {
+      "foreign": 0,
+      "baseline_n": 59429,
+      "eligible_n": 44758,
+      "linked_n": 41416,
+      "reemployed_n": 8458,
+      "resolved_reemployed_n": 7644,
+      "unresolved_reemployed_n": 814,
+      "unique_linked_people": 22757,
+      "weighted_reemployment_rate": 0.20315215674727943,
+      "weighted_below_ba_risk": 0.08865353910861488,
+      "weighted_below_ba_share": 0.481990034332369,
+      "weighted_link_rate_eligible": 0.9231572761292447
+    },
+    {
+      "foreign": 1,
+      "baseline_n": 15638,
+      "eligible_n": 11786,
+      "linked_n": 10790,
+      "reemployed_n": 1939,
+      "resolved_reemployed_n": 1769,
+      "unresolved_reemployed_n": 170,
+      "unique_linked_people": 6093,
+      "weighted_reemployment_rate": 0.17884934784874867,
+      "weighted_below_ba_risk": 0.0915595794847146,
+      "weighted_below_ba_share": 0.5570515375544798,
+      "weighted_link_rate_eligible": 0.9125652002381961
+    }
+  ],
+  "diagnostics": [
+    {
+      "foreign": 0,
+      "duration_bin": "0-4",
+      "baseline_n": 12948,
+      "eligible_n": 9962,
+      "linked_n": 9119,
+      "link_rate_eligible": 0.9123568828441623,
+      "eligible_mean_age": 40.96280861517093,
+      "linked_mean_age": 41.25366685501496,
+      "eligible_female_share": 0.5378298701944275,
+      "linked_female_share": 0.5361843394119531
+    },
+    {
+      "foreign": 0,
+      "duration_bin": "5-12",
+      "baseline_n": 13193,
+      "eligible_n": 10011,
+      "linked_n": 9217,
+      "link_rate_eligible": 0.9231854102980832,
+      "eligible_mean_age": 41.17882933965504,
+      "linked_mean_age": 41.34363874289479,
+      "eligible_female_share": 0.5077056395036099,
+      "linked_female_share": 0.5090444761130302
+    },
+    {
+      "foreign": 0,
+      "duration_bin": "13-26",
+      "baseline_n": 12233,
+      "eligible_n": 9008,
+      "linked_n": 8330,
+      "link_rate_eligible": 0.9203619500934627,
+      "eligible_mean_age": 42.43436290359408,
+      "linked_mean_age": 42.67353281218447,
+      "eligible_female_share": 0.4828036952900733,
+      "linked_female_share": 0.48315669052219
+    },
+    {
+      "foreign": 0,
+      "duration_bin": "27-51",
+      "baseline_n": 7762,
+      "eligible_n": 5712,
+      "linked_n": 5321,
+      "link_rate_eligible": 0.9268516734327479,
+      "eligible_mean_age": 43.40130577878567,
+      "linked_mean_age": 43.66561998587943,
+      "eligible_female_share": 0.4898203670385713,
+      "linked_female_share": 0.4884727231630123
+    },
+    {
+      "foreign": 0,
+      "duration_bin": "52+",
+      "baseline_n": 13293,
+      "eligible_n": 10065,
+      "linked_n": 9429,
+      "link_rate_eligible": 0.934374228113058,
+      "eligible_mean_age": 45.28841735407987,
+      "linked_mean_age": 45.39438960682584,
+      "eligible_female_share": 0.46545687367620053,
+      "linked_female_share": 0.4626586500813632
+    },
+    {
+      "foreign": 1,
+      "duration_bin": "0-4",
+      "baseline_n": 3039,
+      "eligible_n": 2375,
+      "linked_n": 2165,
+      "link_rate_eligible": 0.9088965935613452,
+      "eligible_mean_age": 40.84920781270972,
+      "linked_mean_age": 41.0414264240818,
+      "eligible_female_share": 0.5318408311745881,
+      "linked_female_share": 0.5382847553232591
+    },
+    {
+      "foreign": 1,
+      "duration_bin": "5-12",
+      "baseline_n": 3370,
+      "eligible_n": 2601,
+      "linked_n": 2365,
+      "link_rate_eligible": 0.9068371764414079,
+      "eligible_mean_age": 41.22940298500263,
+      "linked_mean_age": 41.40903023416812,
+      "eligible_female_share": 0.5426745505200331,
+      "linked_female_share": 0.5432160028969968
+    },
+    {
+      "foreign": 1,
+      "duration_bin": "13-26",
+      "baseline_n": 3208,
+      "eligible_n": 2296,
+      "linked_n": 2084,
+      "link_rate_eligible": 0.9076416705314334,
+      "eligible_mean_age": 42.24958979432668,
+      "linked_mean_age": 42.5320357844088,
+      "eligible_female_share": 0.5322505959564601,
+      "linked_female_share": 0.5305199998253107
+    },
+    {
+      "foreign": 1,
+      "duration_bin": "27-51",
+      "baseline_n": 2025,
+      "eligible_n": 1499,
+      "linked_n": 1395,
+      "link_rate_eligible": 0.9270652776628229,
+      "eligible_mean_age": 43.20100311466443,
+      "linked_mean_age": 43.4362037774807,
+      "eligible_female_share": 0.5168149629851871,
+      "linked_female_share": 0.5229560494303053
+    },
+    {
+      "foreign": 1,
+      "duration_bin": "52+",
+      "baseline_n": 3996,
+      "eligible_n": 3015,
+      "linked_n": 2781,
+      "link_rate_eligible": 0.9169962883833742,
+      "eligible_mean_age": 46.15200165968246,
+      "linked_mean_age": 46.26018486789124,
+      "eligible_female_share": 0.5216642694593655,
+      "linked_female_share": 0.5181981045115595
+    }
+  ],
+  "models": {
+    "employed": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.03670780546792605,
+          "se": 0.0013998273790066422,
+          "ci_low": -0.039451467130779065,
+          "ci_high": -0.03396414380507303,
+          "p_value": 1.4493699340202394e-151
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.033119494963282765,
+          "se": 0.0025342144825549833,
+          "ci_low": -0.038086555349090535,
+          "ci_high": -0.028152434577475,
+          "p_value": 4.9551705214988593e-39
+        },
+        {
+          "term": "Slope difference",
+          "estimate": 0.003588310504643284,
+          "se": 0.002861034242069035,
+          "ci_low": -0.0020193166098120244,
+          "ci_high": 0.009195937619098593,
+          "p_value": 0.20976914737190944
+        }
+      ],
+      "r2": 0.03982461314999275
+    },
+    "below_ba": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.014657435154285027,
+          "se": 0.0010083680920061008,
+          "ci_low": -0.016633836614616985,
+          "ci_high": -0.01268103369395307,
+          "p_value": 7.187080675389444e-48
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.017881557615027622,
+          "se": 0.001968596221979173,
+          "ci_low": -0.0217400062101068,
+          "ci_high": -0.014023109019948443,
+          "p_value": 1.0522977674886143e-19
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0032241224607425945,
+          "se": 0.002194535815847397,
+          "ci_low": -0.007525412659803493,
+          "ci_high": 0.0010771677383183036,
+          "p_value": 0.14178961657662
+        }
+      ],
+      "r2": 0.02406007107858643
+    },
+    "ba_plus": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.019049104805769563,
+          "se": 0.0010213461498201817,
+          "ci_low": -0.02105094325941712,
+          "ci_high": -0.017047266352122007,
+          "p_value": 1.2398784924786915e-77
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.013606281534029131,
+          "se": 0.0017192747710854156,
+          "ci_low": -0.016976060085356546,
+          "ci_high": -0.010236502982701717,
+          "p_value": 2.4931705372124895e-15
+        },
+        {
+          "term": "Slope difference",
+          "estimate": 0.0054428232717404325,
+          "se": 0.0019789525198020564,
+          "ci_low": 0.001564076332928402,
+          "ci_high": 0.009321570210552462,
+          "p_value": 0.005953061125869272
+        }
+      ],
+      "r2": 0.029238736380102548
+    },
+    "unemployed": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": 0.026709609090546864,
+          "se": 0.0017601509704704662,
+          "ci_low": 0.02325971318842475,
+          "ci_high": 0.03015950499266898,
+          "p_value": 5.208434589206702e-52
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": 0.027516694302881495,
+          "se": 0.003277237222929184,
+          "ci_low": 0.021093309345940295,
+          "ci_high": 0.033940079259822696,
+          "p_value": 4.6073470887670627e-17
+        },
+        {
+          "term": "Slope difference",
+          "estimate": 0.000807085212334631,
+          "se": 0.003668585891005171,
+          "ci_low": -0.006383343134035505,
+          "ci_high": 0.007997513558704766,
+          "p_value": 0.8258719367168985
+        }
+      ],
+      "r2": 0.02859265138561118
+    },
+    "nilf": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": 0.009998196377379335,
+          "se": 0.0013963815404358776,
+          "ci_low": 0.007261288558125015,
+          "ci_high": 0.012735104196633654,
+          "p_value": 8.063301045220784e-13
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": 0.0056028006604013835,
+          "se": 0.002735503653184788,
+          "ci_low": 0.00024121350015919845,
+          "ci_high": 0.01096438782064357,
+          "p_value": 0.040542480401097675
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.004395395716977952,
+          "se": 0.003030870289526946,
+          "ci_low": -0.010335901484450766,
+          "ci_high": 0.0015451100504948623,
+          "p_value": 0.14700021431531043
+        }
+      ],
+      "r2": 0.02101144381077369
+    },
+    "employment_unresolved": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.003001265507871471,
+          "se": 0.00048293822973810157,
+          "ci_low": -0.00394782443815815,
+          "ci_high": -0.002054706577584792,
+          "p_value": 5.145719498214694e-10
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.0016316558142260244,
+          "se": 0.000809475100385789,
+          "ci_low": -0.0032182270109821706,
+          "ci_high": -4.5084617469877885e-05,
+          "p_value": 0.043831762224391904
+        },
+        {
+          "term": "Slope difference",
+          "estimate": 0.0013696096936454466,
+          "se": 0.0009228305034817897,
+          "ci_low": -0.00043913809317886127,
+          "ci_high": 0.0031783574804697544,
+          "p_value": 0.13777177470775875
+        }
+      ],
+      "r2": 0.008865260265205288
+    },
+    "conditional_below": {
+      "n": 9413,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": 0.008470126792052557,
+          "se": 0.004139910823563651,
+          "ci_low": 0.00035590157786780097,
+          "ci_high": 0.016584352006237313,
+          "p_value": 0.04075947817396336
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": 0.0039029306666101774,
+          "se": 0.007656225477417139,
+          "ci_low": -0.011103271269127414,
+          "ci_high": 0.01890913260234777,
+          "p_value": 0.6102110858901126
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0045671961254423795,
+          "se": 0.008636618178138605,
+          "ci_low": -0.021494967754594044,
+          "ci_high": 0.012360575503709286,
+          "p_value": 0.5969319529426348
+        }
+      ]
+    }
+  },
+  "sensitivities": {
+    "unweighted": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.01481246797885621,
+          "se": 0.0008886432048483545,
+          "ci_low": -0.016554208660358984,
+          "ci_high": -0.013070727297353436,
+          "p_value": 2.2160257492133327e-62
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.017720089724017833,
+          "se": 0.0017488312241039114,
+          "ci_low": -0.0211477989232615,
+          "ci_high": -0.014292380524774167,
+          "p_value": 3.9625017438360565e-24
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0029076217451616234,
+          "se": 0.001940351630307387,
+          "ci_low": -0.006710710940564102,
+          "ci_high": 0.0008954674502408551,
+          "p_value": 0.13400274675939083
+        }
+      ]
+    },
+    "exclude_2020_2021": {
+      "n": 45736,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.014674979236455764,
+          "se": 0.0010571889273773944,
+          "ci_low": -0.016747069534115457,
+          "ci_high": -0.012602888938796072,
+          "p_value": 8.243152408382268e-44
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.017879506623200796,
+          "se": 0.002067887924328524,
+          "ci_low": -0.021932566954884703,
+          "ci_high": -0.01382644629151689,
+          "p_value": 5.3212540796392174e-18
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0032045273867450327,
+          "se": 0.00230595606811553,
+          "ci_low": -0.007724201280251471,
+          "ci_high": 0.0013151465067614064,
+          "p_value": 0.16462786794314133
+        }
+      ]
+    },
+    "2011_2019": {
+      "n": 36461,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.013880630494121023,
+          "se": 0.0011565206180897568,
+          "ci_low": -0.016147410905576948,
+          "ci_high": -0.0116138500826651,
+          "p_value": 3.465593991094562e-33
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.016911680542795807,
+          "se": 0.0022895230651177483,
+          "ci_low": -0.021399145750426594,
+          "ci_high": -0.01242421533516502,
+          "p_value": 1.5068554783710818e-13
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.003031050048674784,
+          "se": 0.0025463820912152275,
+          "ci_low": -0.00802195894745663,
+          "ci_high": 0.0019598588501070617,
+          "p_value": 0.23391439127211255
+        }
+      ]
+    },
+    "2020_2025": {
+      "n": 15745,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.01621362913221198,
+          "se": 0.0019368330661937085,
+          "ci_low": -0.02000982194195165,
+          "ci_high": -0.012417436322472313,
+          "p_value": 5.703137193264672e-17
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.018873114363067572,
+          "se": 0.003664320286853832,
+          "ci_low": -0.02605518212530108,
+          "ci_high": -0.011691046600834063,
+          "p_value": 2.5978056076726074e-07
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.002659485230855593,
+          "se": 0.004126203877419572,
+          "ci_low": -0.010746844830597953,
+          "ci_high": 0.0054278743688867676,
+          "p_value": 0.5192281898353441
+        }
+      ]
+    },
+    "exclude_2025": {
+      "n": 49976,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.014351068295685339,
+          "se": 0.0010313109912629458,
+          "ci_low": -0.016372437838560714,
+          "ci_high": -0.012329698752809965,
+          "p_value": 5.109881076092493e-44
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.017196098180100282,
+          "se": 0.002021453317650465,
+          "ci_low": -0.021158146682695195,
+          "ci_high": -0.01323404967750537,
+          "p_value": 1.7880025627589687e-17
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0028450298844149443,
+          "se": 0.002250197242916156,
+          "ci_low": -0.007255416480530611,
+          "ci_high": 0.0015653567117007217,
+          "p_value": 0.2061055466928311
+        }
+      ]
+    },
+    "control_prior_occupation": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.014980959139875308,
+          "se": 0.0010051198331743985,
+          "ci_low": -0.01695099401289713,
+          "ci_high": -0.013010924266853487,
+          "p_value": 3.074200979670745e-50
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.018658178608571267,
+          "se": 0.001954505754686116,
+          "ci_low": -0.022489009887756053,
+          "ci_high": -0.01482734732938648,
+          "p_value": 1.344905434936711e-21
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.003677219468695958,
+          "se": 0.0021780869742269826,
+          "ci_low": -0.007946269938180844,
+          "ci_high": 0.0005918310007889276,
+          "p_value": 0.09135759900550451
+        }
+      ]
+    },
+    "unresolved_all_ba_plus": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.014657435154285027,
+          "se": 0.0010083680920061008,
+          "ci_low": -0.016633836614616985,
+          "ci_high": -0.01268103369395307,
+          "p_value": 7.187080675389444e-48
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.017881557615027622,
+          "se": 0.001968596221979173,
+          "ci_low": -0.0217400062101068,
+          "ci_high": -0.014023109019948443,
+          "p_value": 1.0522977674886143e-19
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0032241224607425945,
+          "se": 0.002194535815847397,
+          "ci_low": -0.007525412659803493,
+          "ci_high": 0.0010771677383183036,
+          "p_value": 0.14178961657662
+        }
+      ]
+    },
+    "unresolved_all_below_ba": {
+      "n": 52206,
+      "contrasts": [
+        {
+          "term": "U.S.-born slope",
+          "estimate": -0.0176587006621565,
+          "se": 0.0010983929100547274,
+          "ci_low": -0.019811550765863765,
+          "ci_high": -0.015505850558449233,
+          "p_value": 3.7074346642816476e-58
+        },
+        {
+          "term": "Foreign-born slope",
+          "estimate": -0.019513213429253645,
+          "se": 0.002090004939676068,
+          "ci_low": -0.02360962311101874,
+          "ci_high": -0.01541680374748855,
+          "p_value": 9.962416226703702e-21
+        },
+        {
+          "term": "Slope difference",
+          "estimate": -0.0018545127670971462,
+          "se": 0.0023382025357359,
+          "ci_low": -0.00643738973713951,
+          "ci_high": 0.0027283642029452175,
+          "p_value": 0.4276985503553844
+        }
+      ]
+    }
+  },
+  "binned_model": [
+    {
+      "foreign": 0,
+      "bin": "5-12",
+      "estimate": -0.027510543464422433,
+      "ci_low": -0.038105731504006236,
+      "ci_high": -0.01691535542483863,
+      "p_value": 3.596426840045899e-07
+    },
+    {
+      "foreign": 0,
+      "bin": "13-26",
+      "estimate": -0.04767694472309613,
+      "ci_low": -0.05798857172110504,
+      "ci_high": -0.03736531772508722,
+      "p_value": 1.2775624652965105e-19
+    },
+    {
+      "foreign": 0,
+      "bin": "27-51",
+      "estimate": -0.0595250320936738,
+      "ci_low": -0.07057748247411655,
+      "ci_high": -0.04847258171323106,
+      "p_value": 4.768150946432101e-26
+    },
+    {
+      "foreign": 0,
+      "bin": "52+",
+      "estimate": -0.062194425801873725,
+      "ci_low": -0.07201191318112016,
+      "ci_high": -0.0523769384226273,
+      "p_value": 2.1205717593647881e-35
+    },
+    {
+      "foreign": 1,
+      "bin": "5-12",
+      "estimate": -0.04893786629389651,
+      "ci_low": -0.07046001463108038,
+      "ci_high": -0.02741571795671263,
+      "p_value": 8.322266585414408e-06
+    },
+    {
+      "foreign": 1,
+      "bin": "13-26",
+      "estimate": -0.07307379553792523,
+      "ci_low": -0.09417425169900862,
+      "ci_high": -0.05197333937684185,
+      "p_value": 1.1389511658886e-11
+    },
+    {
+      "foreign": 1,
+      "bin": "27-51",
+      "estimate": -0.07616486762543845,
+      "ci_low": -0.09852274539737874,
+      "ci_high": -0.05380698985349816,
+      "p_value": 2.4391340718946453e-11
+    },
+    {
+      "foreign": 1,
+      "bin": "52+",
+      "estimate": -0.08686206108713695,
+      "ci_low": -0.10631498865164732,
+      "ci_high": -0.06740913352262659,
+      "p_value": 2.098320429808604e-18
+    }
+  ],
+  "multinomial": {
+    "converged": true,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "iterations": 370,
+    "max_gradient": 1.5584783947487114e-06,
+    "n": 52206,
+    "parameters": 160,
+    "predictions": [
+      {
+        "foreign": 0,
+        "duration": 2,
+        "unemployed": 0.5529121961294964,
+        "below_ba": 0.12613083495182814,
+        "ba_plus": 0.15025846744594334,
+        "nilf": 0.14377096645523163,
+        "employment_unresolved": 0.02692753501749582
+      },
+      {
+        "foreign": 0,
+        "duration": 8,
+        "unemployed": 0.6068685758194717,
+        "below_ba": 0.09895079350239865,
+        "ba_plus": 0.11126378710296964,
+        "nilf": 0.1613753663156775,
+        "employment_unresolved": 0.02154147725947926
+      },
+      {
+        "foreign": 0,
+        "duration": 20,
+        "unemployed": 0.6412697128587131,
+        "below_ba": 0.08067845025955382,
+        "ba_plus": 0.08672797463191283,
+        "nilf": 0.1734944784374153,
+        "employment_unresolved": 0.017829383812402247
+      },
+      {
+        "foreign": 0,
+        "duration": 39,
+        "unemployed": 0.6632402215678492,
+        "below_ba": 0.06849645664108384,
+        "ba_plus": 0.07114161092589609,
+        "nilf": 0.1818108262412275,
+        "employment_unresolved": 0.015310884623943767
+      },
+      {
+        "foreign": 0,
+        "duration": 78,
+        "unemployed": 0.6827399645026266,
+        "below_ba": 0.05723181064049513,
+        "ba_plus": 0.057310808039484094,
+        "nilf": 0.1897695740550628,
+        "employment_unresolved": 0.012947842762326758
+      },
+      {
+        "foreign": 1,
+        "duration": 2,
+        "unemployed": 0.5353385963761836,
+        "below_ba": 0.14872679100831646,
+        "ba_plus": 0.10602939033923989,
+        "nilf": 0.1908329531459425,
+        "employment_unresolved": 0.019072269130321447
+      },
+      {
+        "foreign": 1,
+        "duration": 8,
+        "unemployed": 0.5891642861822662,
+        "below_ba": 0.1113950966387803,
+        "ba_plus": 0.07954220295092693,
+        "nilf": 0.20364825708487072,
+        "employment_unresolved": 0.016250157143155586
+      },
+      {
+        "foreign": 1,
+        "duration": 20,
+        "unemployed": 0.6245848234675427,
+        "below_ba": 0.08771228204807464,
+        "ba_plus": 0.06272155886828905,
+        "nilf": 0.21084402197147642,
+        "employment_unresolved": 0.014137313644609994
+      },
+      {
+        "foreign": 1,
+        "duration": 39,
+        "unemployed": 0.6480139233328176,
+        "below_ba": 0.07255744287481808,
+        "ba_plus": 0.05194742371248505,
+        "nilf": 0.2148628341147379,
+        "employment_unresolved": 0.012618375965135433
+      },
+      {
+        "foreign": 1,
+        "duration": 78,
+        "unemployed": 0.6696751000258047,
+        "below_ba": 0.059011342975723045,
+        "ba_plus": 0.0423074108402302,
+        "nilf": 0.2178839968605374,
+        "employment_unresolved": 0.011122149297702503
+      }
+    ],
+    "contrasts": [
+      {
+        "foreign": 0,
+        "contrast": "52 vs 13 weeks below-BA risk",
+        "estimate": -0.025465885988691345,
+        "se": 0.00150511080902723,
+        "ci_low": -0.028415903174384714,
+        "ci_high": -0.022515868802997975,
+        "p_value": 3.225662496759035e-64
+      },
+      {
+        "foreign": 1,
+        "contrast": "52 vs 13 weeks below-BA risk",
+        "estimate": -0.03183364806827156,
+        "se": 0.002983923402421878,
+        "ci_low": -0.03768213793701844,
+        "ci_high": -0.025985158199524683,
+        "p_value": 1.4308950122232615e-26
+      },
+      {
+        "foreign": "difference",
+        "contrast": "Foreign minus U.S.: 52 vs 13 weeks",
+        "estimate": -0.0063677620795802164,
+        "se": 0.003322633153829485,
+        "ci_low": -0.012880123061086008,
+        "ci_high": 0.00014459890192557428,
+        "p_value": 0.05530394643139938
+      }
+    ]
+  }
+}

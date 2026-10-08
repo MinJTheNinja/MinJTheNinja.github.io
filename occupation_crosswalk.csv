@@ -1,0 +1,1055 @@
+census_vintage,census_code,below_ba,status,soc_codes,destination_2018_codes,title
+2018,10,0.0,resolved,11-1011,,Chief executives
+2018,20,0.0,resolved,11-1021,,General and operations managers
+2018,30,,unmapped,,,Legislators
+2018,40,0.0,resolved,11-2011,,Advertising and promotions managers
+2018,51,0.0,resolved,11-2021,,Marketing managers
+2018,52,0.0,resolved,11-2022,,Sales managers
+2018,60,0.0,resolved,11-2032;11-2033,,Public relations and fundraising managers
+2018,101,0.0,resolved,11-3012,,Administrative services managers
+2018,102,0.0,resolved,11-3013,,Facilities managers
+2018,110,0.0,resolved,11-3021,,Computer and information systems managers
+2018,120,0.0,resolved,11-3031,,Financial managers
+2018,135,0.0,resolved,11-3111,,Compensation and benefits managers
+2018,136,0.0,resolved,11-3121,,Human resources managers
+2018,137,0.0,resolved,11-3131,,Training and development managers
+2018,140,0.0,resolved,11-3051,,Industrial production managers
+2018,150,0.0,resolved,11-3061,,Purchasing managers
+2018,160,1.0,resolved,11-3071,,"Transportation, storage, and distribution managers"
+2018,205,1.0,resolved,11-9013,,"Farmers, ranchers, and other agricultural managers"
+2018,220,0.0,resolved,11-9021,,Construction managers
+2018,230,0.0,resolved,11-9031;11-9032;11-9033;11-9039,,Education and childcare administrators
+2018,300,0.0,resolved,11-9041,,Architectural and engineering managers
+2018,310,1.0,resolved,11-9051,,Food service managers
+2018,325,1.0,resolved,11-9171,,Funeral home managers
+2018,335,,mixed,11-9071;11-9072,,Entertainment and recreation managers
+2018,340,1.0,resolved,11-9081,,Lodging managers
+2018,350,0.0,resolved,11-9111,,Medical and health services managers
+2018,360,0.0,resolved,11-9121,,Natural sciences managers
+2018,400,1.0,resolved,11-9131,,Postmasters and mail superintendents
+2018,410,1.0,resolved,11-9141,,"Property, real estate, and community association managers"
+2018,420,0.0,resolved,11-9151,,Social and community service managers
+2018,425,0.0,resolved,11-9161,,Emergency management directors
+2018,426,1.0,resolved,11-9179,,"Personal service managers, all other"
+2018,440,0.0,resolved,11-9199,,"Managers, all other"
+2018,500,0.0,resolved,13-1011,,"Agents and business managers of artists, performers, and athletes"
+2018,510,0.0,resolved,13-1020,,"Buyers and purchasing agents, farm products"
+2018,520,0.0,resolved,13-1020,,"Wholesale and retail buyers, except farm products"
+2018,530,0.0,resolved,13-1020,,"Purchasing agents, except wholesale, retail, and farm products"
+2018,540,1.0,resolved,13-1031;13-1032,,"Claims adjusters, appraisers, examiners, and investigators"
+2018,565,0.0,resolved,13-1041,,Compliance officers
+2018,600,0.0,resolved,13-1051,,Cost estimators
+2018,630,,mixed,13-1071;13-1074;13-1075,,Human resources workers
+2018,640,0.0,resolved,13-1141,,"Compensation, benefits, and job analysis specialists"
+2018,650,0.0,resolved,13-1151,,Training and development specialists
+2018,700,0.0,resolved,13-1081,,Logisticians
+2018,705,0.0,resolved,13-1082,,Project management specialists
+2018,710,0.0,resolved,13-1111,,Management analysts
+2018,725,0.0,resolved,13-1121,,"Meeting, convention, and event planners"
+2018,726,0.0,resolved,13-1131,,Fundraisers
+2018,735,0.0,resolved,13-1161,,Market research analysts and marketing specialists
+2018,750,0.0,resolved,13-1199,,"Business operations specialists, all other"
+2018,800,0.0,resolved,13-2011,,Accountants and auditors
+2018,810,0.0,resolved,13-2020,,Property appraisers and assessors
+2018,820,0.0,resolved,13-2031,,Budget analysts
+2018,830,0.0,resolved,13-2041,,Credit analysts
+2018,845,0.0,resolved,13-2051,,Financial and investment analysts
+2018,850,0.0,resolved,13-2052,,Personal financial advisors
+2018,860,0.0,resolved,13-2053,,Insurance underwriters
+2018,900,0.0,resolved,13-2061,,Financial examiners
+2018,910,0.0,resolved,13-2071;13-2072,,Credit counselors and loan officers
+2018,930,0.0,resolved,13-2081,,"Tax examiners and collectors, and revenue agents"
+2018,940,1.0,resolved,13-2082,,Tax preparers
+2018,960,0.0,resolved,13-2054;13-2099,,Other financial specialists
+2018,1005,0.0,resolved,15-1221,,Computer and information research scientists
+2018,1006,0.0,resolved,15-1211,,Computer systems analysts
+2018,1007,0.0,resolved,15-1212,,Information security analysts
+2018,1010,0.0,resolved,15-1251,,Computer programmers
+2018,1021,0.0,resolved,15-1252,,Software developers
+2018,1022,0.0,resolved,15-1253,,Software quality assurance analysts and testers
+2018,1031,0.0,resolved,15-1254,,Web developers
+2018,1032,0.0,resolved,15-1255,,Web and digital interface designers
+2018,1050,1.0,resolved,15-1231;15-1232,,Computer support specialists
+2018,1065,0.0,resolved,15-1242;15-1243,,Database administrators and architects
+2018,1105,0.0,resolved,15-1244,,Network and computer systems administrators
+2018,1106,0.0,resolved,15-1241,,Computer network architects
+2018,1108,0.0,resolved,15-1299,,"Computer occupations, all other"
+2018,1200,0.0,resolved,15-2011,,Actuaries
+2018,1210,0.0,resolved,15-2021,,Mathematicians
+2018,1220,0.0,resolved,15-2031,,Operations research analysts
+2018,1230,0.0,resolved,15-2041,,Statisticians
+2018,1240,0.0,resolved,15-2051;15-2099,,Other mathematical science occupations
+2018,1305,0.0,resolved,17-1011,,"Architects, except landscape and naval"
+2018,1306,0.0,resolved,17-1012,,Landscape architects
+2018,1310,0.0,resolved,17-1021;17-1022,,"Surveyors, cartographers, and photogrammetrists"
+2018,1320,0.0,resolved,17-2011,,Aerospace engineers
+2018,1330,0.0,resolved,17-2021,,Agricultural engineers
+2018,1340,0.0,resolved,17-2031,,Bioengineers and biomedical engineers
+2018,1350,0.0,resolved,17-2041,,Chemical engineers
+2018,1360,0.0,resolved,17-2051,,Civil engineers
+2018,1400,0.0,resolved,17-2061,,Computer hardware engineers
+2018,1410,0.0,resolved,17-2071;17-2072,,Electrical and electronics engineers
+2018,1420,0.0,resolved,17-2081,,Environmental engineers
+2018,1430,0.0,resolved,17-2111;17-2112,,"Industrial engineers, including health and safety"
+2018,1440,0.0,resolved,17-2121,,Marine engineers and naval architects
+2018,1450,0.0,resolved,17-2131,,Materials engineers
+2018,1460,0.0,resolved,17-2141,,Mechanical engineers
+2018,1500,0.0,resolved,17-2151,,"Mining and geological engineers, including mining safety engineers"
+2018,1510,0.0,resolved,17-2161,,Nuclear engineers
+2018,1520,0.0,resolved,17-2171,,Petroleum engineers
+2018,1530,0.0,resolved,17-2199,,"Engineers, all other"
+2018,1541,1.0,resolved,17-3011,,Architectural and civil drafters
+2018,1545,1.0,resolved,17-3012;17-3013;17-3019,,Other drafters
+2018,1551,1.0,resolved,17-3023,,Electrical and electronic engineering technologists and technicians
+2018,1555,1.0,resolved,17-3021;17-3022;17-3024;17-3025;17-3026;17-3027;17-3028;17-3029,,"Other engineering technologists and technicians, except drafters"
+2018,1560,1.0,resolved,17-3031,,Surveying and mapping technicians
+2018,1600,0.0,resolved,19-1011;19-1012;19-1013,,Agricultural and food scientists
+2018,1610,0.0,resolved,19-1021;19-1022;19-1023;19-1029,,Biological scientists
+2018,1640,0.0,resolved,19-1031;19-1032,,Conservation scientists and foresters
+2018,1650,0.0,resolved,19-1041;19-1042,,Medical scientists
+2018,1660,0.0,resolved,19-1099,,"Life scientists, all other"
+2018,1700,0.0,resolved,19-2011;19-2012,,Astronomers and physicists
+2018,1710,0.0,resolved,19-2021,,Atmospheric and space scientists
+2018,1720,0.0,resolved,19-2031;19-2032,,Chemists and materials scientists
+2018,1745,0.0,resolved,19-2041,,"Environmental scientists and specialists, including health"
+2018,1750,0.0,resolved,19-2042;19-2043,,"Geoscientists and hydrologists, except geographers"
+2018,1760,0.0,resolved,19-2099,,"Physical scientists, all other"
+2018,1800,0.0,resolved,19-3011,,Economists
+2018,1815,0.0,resolved,19-3022,,Survey researchers
+2018,1821,0.0,resolved,19-3033,,Clinical and counseling psychologists
+2018,1822,0.0,resolved,19-3034,,School psychologists
+2018,1825,0.0,resolved,19-3032;19-3039,,Other psychologists
+2018,1830,0.0,resolved,19-3041,,Sociologists
+2018,1840,0.0,resolved,19-3051,,Urban and regional planners
+2018,1860,0.0,resolved,19-3091;19-3092;19-3093;19-3094;19-3099,,Miscellaneous social scientists and related workers
+2018,1900,1.0,resolved,19-4012;19-4013,,Agricultural and food science technicians
+2018,1910,0.0,resolved,19-4021,,Biological technicians
+2018,1920,1.0,resolved,19-4031,,Chemical technicians
+2018,1935,1.0,resolved,19-4042;19-4043;19-4044,,Environmental  science and geoscience technicians
+2018,1940,1.0,resolved,19-4051,,Nuclear technicians
+2018,1950,0.0,resolved,19-4061,,Social science research assistants
+2018,1970,,mixed,19-4071;19-4092;19-4099,,"Other life, physical, and social science technicians"
+2018,1980,,mixed,19-5011;19-5012,,Occupational health and safety specialists and technicians
+2018,2001,,unmapped,,,Substance abuse and behavioral disorder counselors
+2018,2002,0.0,resolved,21-1012,,"Educational, guidance, and career counselors and advisors"
+2018,2003,0.0,resolved,21-1013,,Marriage and family therapists
+2018,2004,,unmapped,,,Mental health counselors
+2018,2005,0.0,resolved,21-1015,,Rehabilitation counselors
+2018,2006,0.0,resolved,21-1019,,"Counselors, all other"
+2018,2011,0.0,resolved,21-1021,,"Child, family, and school social workers"
+2018,2012,0.0,resolved,21-1022,,Healthcare social workers
+2018,2013,0.0,resolved,21-1023,,Mental health and substance abuse social workers
+2018,2014,0.0,resolved,21-1029,,"Social workers, all other"
+2018,2015,0.0,resolved,21-1092,,Probation officers and correctional treatment specialists
+2018,2016,1.0,resolved,21-1093,,Social and human service assistants
+2018,2025,,mixed,21-1091;21-1094;21-1099,,Other community and social service specialists
+2018,2040,0.0,resolved,21-2011,,Clergy
+2018,2050,0.0,resolved,21-2021,,"Directors, religious activities and education"
+2018,2060,0.0,resolved,21-2099,,"Religious workers, all other"
+2018,2100,0.0,resolved,23-1011,,Lawyers
+2018,2105,0.0,resolved,23-1012,,Judicial law clerks
+2018,2110,0.0,resolved,23-1021;23-1022;23-1023,,"Judges, magistrates, and other judicial workers"
+2018,2145,1.0,resolved,23-2011,,Paralegals and legal assistants
+2018,2170,1.0,resolved,23-2093,,"Title examiners, abstractors, and searchers"
+2018,2180,1.0,resolved,23-2099,,"Legal support workers, all other"
+2018,2205,0.0,resolved,25-1011;25-1021;25-1022;25-1031;25-1032;25-1041;25-1042;25-1043;25-1051;25-1052;25-1053;25-1054;25-1061;25-1062;25-1063;25-1064;25-1065;25-1066;25-1067;25-1069;25-1071;25-1072;25-1081;25-1082;25-1111;25-1112;25-1113;25-1121;25-1122;25-1123;25-1124;25-1125;25-1126;25-1192;25-1193;25-1194;25-1199,,Postsecondary teachers
+2018,2300,,mixed,25-2011;25-2012,,Preschool and kindergarten teachers
+2018,2310,0.0,resolved,25-2021;25-2022;25-2023,,Elementary and middle school teachers
+2018,2320,0.0,resolved,25-2031;25-2032,,Secondary school teachers
+2018,2330,0.0,resolved,25-2051;25-2052;25-2057;25-2058;25-2059,,Special education teachers
+2018,2350,1.0,resolved,25-3041,,Tutors
+2018,2360,,mixed,25-3011;25-3021;25-3031;25-3099,,Other teachers and instructors
+2018,2400,0.0,resolved,25-4011;25-4012;25-4013,,"Archivists, curators, and museum technicians"
+2018,2435,0.0,resolved,25-4022,,Librarians and media collections specialists
+2018,2440,1.0,resolved,25-4031,,Library technicians
+2018,2545,,mixed,25-9044;25-9045,,Teaching assistants
+2018,2555,0.0,resolved,25-9021;25-9031;25-9099,,Other educational instruction and library workers
+2018,2600,,mixed,27-1011;27-1012;27-1013;27-1014;27-1019,,Artists and related workers
+2018,2631,0.0,resolved,27-1021,,Commercial and industrial designers
+2018,2632,0.0,resolved,27-1022,,Fashion designers
+2018,2633,1.0,resolved,27-1023,,Floral designers
+2018,2634,0.0,resolved,27-1024,,Graphic designers
+2018,2635,0.0,resolved,27-1025,,Interior designers
+2018,2636,1.0,resolved,27-1026,,Merchandise displayers and window trimmers
+2018,2640,0.0,resolved,27-1027;27-1029,,Other designers
+2018,2700,1.0,resolved,27-2011,,Actors
+2018,2710,0.0,resolved,27-2012,,Producers and directors
+2018,2721,1.0,resolved,27-2021,,Athletes and sports competitors
+2018,2722,0.0,resolved,27-2022,,Coaches and scouts
+2018,2723,1.0,resolved,27-2023,,"Umpires, referees, and other sports officials"
+2018,2740,1.0,resolved,27-2031;27-2032,,Dancers and choreographers
+2018,2751,0.0,resolved,27-2041,,Music directors and composers
+2018,2752,1.0,resolved,27-2042,,Musicians and singers
+2018,2755,1.0,resolved,27-2091,,"Disc jockeys, except radio"
+2018,2770,1.0,resolved,27-2099,,"Entertainers and performers, sports and related workers, all other"
+2018,2805,0.0,resolved,27-3011,,Broadcast announcers and radio disc jockeys
+2018,2810,0.0,resolved,27-3023,,"News analysts, reporters, and journalists"
+2018,2825,0.0,resolved,27-3031,,Public relations specialists
+2018,2830,0.0,resolved,27-3041,,Editors
+2018,2840,0.0,resolved,27-3042,,Technical writers
+2018,2850,0.0,resolved,27-3043,,Writers and authors
+2018,2861,0.0,resolved,27-3091,,Interpreters and translators
+2018,2862,1.0,resolved,27-3092,,Court reporters and simultaneous captioners
+2018,2865,1.0,resolved,27-3099,,"Media and communication workers, all other"
+2018,2905,1.0,resolved,27-4011;27-4012;27-4014;27-4015,,"Broadcast, sound, and lighting technicians"
+2018,2910,1.0,resolved,27-4021,,Photographers
+2018,2920,0.0,resolved,27-4031;27-4032,,"Television, video, and film camera operators and editors"
+2018,2970,1.0,resolved,27-4099,,"Media and communication equipment workers, all other"
+2018,3000,0.0,resolved,29-1011,,Chiropractors
+2018,3010,0.0,resolved,29-1021;29-1022;29-1023;29-1024;29-1029,,Dentists
+2018,3030,0.0,resolved,29-1031,,Dietitians and nutritionists
+2018,3040,0.0,resolved,29-1041,,Optometrists
+2018,3050,0.0,resolved,29-1051,,Pharmacists
+2018,3065,0.0,resolved,29-1214,,Emergency medicine physicians
+2018,3070,0.0,resolved,29-1224,,Radiologists
+2018,3090,0.0,resolved,29-1211;29-1212;29-1213;29-1215;29-1216;29-1217;29-1218;29-1221;29-1222;29-1223;29-1229,,Other physicians
+2018,3100,0.0,resolved,29-1241;29-1242;29-1243;29-1249,,Surgeons
+2018,3110,0.0,resolved,29-1071,,Physician assistants
+2018,3120,0.0,resolved,29-1081,,Podiatrists
+2018,3140,0.0,resolved,29-1181,,Audiologists
+2018,3150,0.0,resolved,29-1122,,Occupational therapists
+2018,3160,0.0,resolved,29-1123,,Physical therapists
+2018,3200,1.0,resolved,29-1124,,Radiation therapists
+2018,3210,0.0,resolved,29-1125,,Recreational therapists
+2018,3220,1.0,resolved,29-1126,,Respiratory therapists
+2018,3230,0.0,resolved,29-1127,,Speech-language pathologists
+2018,3235,0.0,resolved,29-1128,,Exercise physiologists
+2018,3245,0.0,resolved,29-1129,,"Therapists, all other"
+2018,3250,0.0,resolved,29-1131,,Veterinarians
+2018,3255,0.0,resolved,29-1141,,Registered nurses
+2018,3256,0.0,resolved,29-1151,,Nurse anesthetists
+2018,3257,0.0,resolved,29-1161,,Nurse midwives
+2018,3258,0.0,resolved,29-1171,,Nurse practitioners
+2018,3261,0.0,resolved,29-1291,,Acupuncturists
+2018,3270,0.0,resolved,29-1299,,"Healthcare diagnosing or treating practitioners, all other"
+2018,3300,0.0,resolved,29-2010,,Clinical laboratory technologists and technicians
+2018,3310,1.0,resolved,29-1292,,Dental hygienists
+2018,3321,1.0,resolved,29-2031,,Cardiovascular technologists and technicians
+2018,3322,1.0,resolved,29-2032,,Diagnostic medical sonographers
+2018,3323,1.0,resolved,29-2034,,Radiologic technologists and technicians
+2018,3324,1.0,resolved,29-2035,,Magnetic resonance imaging technologists
+2018,3330,,mixed,29-2033;29-2036,,Nuclear medicine technologists and medical dosimetrists
+2018,3401,1.0,resolved,29-2042,,Emergency medical technicians
+2018,3402,1.0,resolved,29-2043,,Paramedics
+2018,3421,1.0,resolved,29-2052,,Pharmacy technicians
+2018,3422,1.0,resolved,29-2053,,Psychiatric technicians
+2018,3423,1.0,resolved,29-2055,,Surgical technologists
+2018,3424,1.0,resolved,29-2056,,Veterinary technologists and technicians
+2018,3430,1.0,resolved,29-2051;29-2057,,Dietetic technicians and ophthalmic medical technicians
+2018,3500,1.0,resolved,29-2061,,Licensed practical and licensed vocational nurses
+2018,3515,1.0,resolved,29-2072,,Medical records specialists
+2018,3520,1.0,resolved,29-2081,,"Opticians, dispensing"
+2018,3545,,mixed,29-2091;29-2092;29-2099,,Miscellaneous health technologists and technicians
+2018,3550,,mixed,29-9021;29-9091;29-9092;29-9093;29-9099,,Other healthcare practitioners and technical occupations
+2018,3601,1.0,resolved,31-1120,,Home health aides
+2018,3602,1.0,resolved,31-1120,,Personal care aides
+2018,3603,1.0,resolved,31-1131,,Nursing assistants
+2018,3605,1.0,resolved,31-1132;31-1133,,Orderlies and psychiatric aides
+2018,3610,1.0,resolved,31-2011;31-2012,,Occupational therapy assistants and aides
+2018,3620,1.0,resolved,31-2021;31-2022,,Physical therapist assistants and aides
+2018,3630,1.0,resolved,31-9011,,Massage therapists
+2018,3640,1.0,resolved,31-9091,,Dental assistants
+2018,3645,1.0,resolved,31-9092,,Medical assistants
+2018,3646,1.0,resolved,31-9094,,Medical transcriptionists
+2018,3647,1.0,resolved,31-9095,,Pharmacy aides
+2018,3648,1.0,resolved,31-9096,,Veterinary assistants and laboratory animal caretakers
+2018,3649,1.0,resolved,31-9097,,Phlebotomists
+2018,3655,1.0,resolved,31-9093;31-9099,,Other healthcare support workers
+2018,3700,1.0,resolved,33-1011,,First-line supervisors of correctional officers
+2018,3710,1.0,resolved,33-1012,,First-line supervisors of police and detectives
+2018,3720,1.0,resolved,33-1021,,First-line supervisors of firefighting and prevention workers
+2018,3725,1.0,resolved,33-1091,,First-line supervisors of security workers
+2018,3735,1.0,resolved,33-1099,,"First-line supervisors of protective service workers, all other"
+2018,3740,1.0,resolved,33-2011,,Firefighters
+2018,3750,1.0,resolved,33-2021;33-2022,,Fire inspectors
+2018,3801,1.0,resolved,33-3011,,Bailiffs
+2018,3802,1.0,resolved,33-3012,,Correctional officers and jailers
+2018,3820,1.0,resolved,33-3021,,Detectives and criminal investigators
+2018,3830,0.0,resolved,33-3031,,Fish and game wardens
+2018,3840,1.0,resolved,33-3041,,Parking enforcement workers
+2018,3870,1.0,resolved,33-3051;33-3052,,Police officers
+2018,3900,1.0,resolved,33-9011,,Animal control workers
+2018,3910,1.0,resolved,33-9021,,Private detectives and investigators
+2018,3930,1.0,resolved,33-9031;33-9032,,Security guards and gambling surveillance officers
+2018,3940,1.0,resolved,33-9091,,Crossing guards and flaggers
+2018,3945,1.0,resolved,33-9093,,Transportation security screeners
+2018,3946,1.0,resolved,33-9094,,School bus monitors
+2018,3960,1.0,resolved,33-9092;33-9099,,Other protective service workers
+2018,4000,1.0,resolved,35-1011,,Chefs and head cooks
+2018,4010,1.0,resolved,35-1012,,First-line supervisors of food preparation and serving workers
+2018,4020,1.0,resolved,35-2011;35-2012;35-2013;35-2014;35-2015;35-2019,,Cooks
+2018,4030,1.0,resolved,35-2021,,Food preparation workers
+2018,4040,1.0,resolved,35-3011,,Bartenders
+2018,4055,1.0,resolved,35-3023,,Fast food and counter workers
+2018,4110,1.0,resolved,35-3031,,Waiters and waitresses
+2018,4120,1.0,resolved,35-3041,,"Food servers, nonrestaurant"
+2018,4130,1.0,resolved,35-9011,,Dining room and cafeteria attendants and bartender helpers
+2018,4140,1.0,resolved,35-9021,,Dishwashers
+2018,4150,1.0,resolved,35-9031,,"Hosts and hostesses, restaurant, lounge, and coffee shop"
+2018,4160,1.0,resolved,35-9099,,"Food preparation and serving related workers, all other"
+2018,4200,1.0,resolved,37-1011,,First-line supervisors of housekeeping and janitorial workers
+2018,4210,1.0,resolved,37-1012,,"First-line supervisors of landscaping, lawn service, and groundskeeping workers"
+2018,4220,1.0,resolved,37-2011;37-2019,,Janitors and building cleaners
+2018,4230,1.0,resolved,37-2012,,Maids and housekeeping cleaners
+2018,4240,1.0,resolved,37-2021,,Pest control workers
+2018,4251,1.0,resolved,37-3011,,Landscaping and groundskeeping workers
+2018,4252,1.0,resolved,37-3013,,Tree trimmers and pruners
+2018,4255,1.0,resolved,37-3012;37-3019,,Other grounds maintenance workers
+2018,4330,1.0,resolved,39-1013;39-1014;39-1022,,Supervisors of personal care and service workers
+2018,4340,1.0,resolved,39-2011,,Animal trainers
+2018,4350,1.0,resolved,39-2021,,Animal caretakers
+2018,4400,1.0,resolved,39-3011;39-3012;39-3019,,Gambling services workers
+2018,4420,1.0,resolved,39-3031,,"Ushers, lobby attendants, and ticket takers"
+2018,4435,1.0,resolved,39-3021;39-3091;39-3092;39-3093;39-3099,,Other entertainment attendants and related workers
+2018,4461,1.0,resolved,39-4011;39-4012;39-4021,,"Embalmers, crematory operators and funeral attendants"
+2018,4465,1.0,resolved,39-4031,,"Morticians, undertakers, and funeral arrangers"
+2018,4500,1.0,resolved,39-5011,,Barbers
+2018,4510,1.0,resolved,39-5012,,"Hairdressers, hairstylists, and cosmetologists"
+2018,4521,1.0,resolved,39-5092,,Manicurists and pedicurists
+2018,4522,1.0,resolved,39-5094,,Skincare specialists
+2018,4525,1.0,resolved,39-5091;39-5093,,Other personal appearance workers
+2018,4530,1.0,resolved,39-6011;39-6012,,"Baggage porters, bellhops, and concierges"
+2018,4540,1.0,resolved,39-7010,,Tour and travel guides
+2018,4600,1.0,resolved,39-9011,,Childcare workers
+2018,4621,1.0,resolved,39-9031,,Exercise trainers and group fitness instructors
+2018,4622,1.0,resolved,39-9032,,Recreation workers
+2018,4640,1.0,resolved,39-9041,,Residential advisors
+2018,4655,1.0,resolved,39-9099,,"Personal care and service workers, all other"
+2018,4700,1.0,resolved,41-1011,,First-Line supervisors of retail sales workers
+2018,4710,1.0,resolved,41-1012,,First-Line supervisors of non-retail sales workers
+2018,4720,1.0,resolved,41-2011;41-2012,,Cashiers
+2018,4740,1.0,resolved,41-2021,,Counter and rental clerks
+2018,4750,1.0,resolved,41-2022,,Parts salespersons
+2018,4760,1.0,resolved,41-2031,,Retail salespersons
+2018,4800,1.0,resolved,41-3011,,Advertising sales agents
+2018,4810,1.0,resolved,41-3021,,Insurance sales agents
+2018,4820,0.0,resolved,41-3031,,"Securities, commodities, and financial services sales agents"
+2018,4830,1.0,resolved,41-3041,,Travel agents
+2018,4840,1.0,resolved,41-3091,,"Sales representatives of services, except advertising, insurance, financial services, and travel"
+2018,4850,,mixed,41-4011;41-4012,,"Sales representatives, wholesale and manufacturing"
+2018,4900,1.0,resolved,41-9011;41-9012,,"Models, demonstrators, and product promoters"
+2018,4920,1.0,resolved,41-9021;41-9022,,Real estate brokers and sales agents
+2018,4930,0.0,resolved,41-9031,,Sales engineers
+2018,4940,1.0,resolved,41-9041,,Telemarketers
+2018,4950,1.0,resolved,41-9091,,"Door-to-door sales workers, news and street vendors, and related workers"
+2018,4965,1.0,resolved,41-9099,,"Sales and related workers, all other"
+2018,5000,1.0,resolved,43-1011,,First-Line supervisors of office and administrative support workers
+2018,5010,1.0,resolved,43-2011,,"Switchboard operators, including answering service"
+2018,5020,1.0,resolved,43-2021,,Telephone operators
+2018,5040,1.0,resolved,43-2099,,"Communications equipment operators, all other"
+2018,5100,1.0,resolved,43-3011,,Bill and account collectors
+2018,5110,1.0,resolved,43-3021,,Billing and posting clerks
+2018,5120,1.0,resolved,43-3031,,"Bookkeeping, accounting, and auditing clerks"
+2018,5130,1.0,resolved,43-3041,,Gambling cage workers
+2018,5140,1.0,resolved,43-3051,,Payroll and timekeeping clerks
+2018,5150,1.0,resolved,43-3061,,Procurement clerks
+2018,5160,1.0,resolved,43-3071,,Tellers
+2018,5165,1.0,resolved,43-3099,,"Financial clerks, all other"
+2018,5200,1.0,resolved,43-4011,,Brokerage clerks
+2018,5210,1.0,resolved,43-4021,,Correspondence clerks
+2018,5220,1.0,resolved,43-4031,,"Court, municipal, and license clerks"
+2018,5230,1.0,resolved,43-4041,,"Credit authorizers, checkers, and clerks"
+2018,5240,1.0,resolved,43-4051,,Customer service representatives
+2018,5250,1.0,resolved,43-4061,,"Eligibility interviewers, government programs"
+2018,5260,1.0,resolved,43-4071,,File clerks
+2018,5300,1.0,resolved,43-4081,,"Hotel, motel, and resort desk clerks"
+2018,5310,1.0,resolved,43-4111,,"Interviewers, except eligibility and loan"
+2018,5320,1.0,resolved,43-4121,,"Library assistants, clerical"
+2018,5330,1.0,resolved,43-4131,,Loan interviewers and clerks
+2018,5340,1.0,resolved,43-4141,,New accounts clerks
+2018,5350,1.0,resolved,43-4151,,Order clerks
+2018,5360,1.0,resolved,43-4161,,"Human resources assistants, except payroll and timekeeping"
+2018,5400,1.0,resolved,43-4171,,Receptionists and information clerks
+2018,5410,1.0,resolved,43-4181,,Reservation and transportation ticket agents and travel clerks
+2018,5420,1.0,resolved,43-4199,,"Information and record clerks, all other"
+2018,5500,1.0,resolved,43-5011,,Cargo and freight agents
+2018,5510,1.0,resolved,43-5021,,Couriers and messengers
+2018,5521,1.0,resolved,43-5031,,Public safety telecommunicators
+2018,5522,1.0,resolved,43-5032,,"Dispatchers, except police, fire, and ambulance"
+2018,5530,1.0,resolved,43-5041,,"Meter readers, utilities"
+2018,5540,1.0,resolved,43-5051,,Postal service clerks
+2018,5550,1.0,resolved,43-5052,,Postal service mail carriers
+2018,5560,1.0,resolved,43-5053,,"Postal service mail sorters, processors, and processing machine operators"
+2018,5600,1.0,resolved,43-5061,,"Production, planning, and expediting clerks"
+2018,5610,1.0,resolved,43-5071,,"Shipping, receiving, and inventory clerks"
+2018,5630,1.0,resolved,43-5111,,"Weighers, measurers, checkers, and samplers, recordkeeping"
+2018,5710,1.0,resolved,43-6011,,Executive secretaries and executive administrative assistants
+2018,5720,1.0,resolved,43-6012,,Legal secretaries and administrative assistants
+2018,5730,1.0,resolved,43-6013,,Medical secretaries and administrative assistants
+2018,5740,1.0,resolved,43-6014,,"Secretaries and administrative assistants, except legal, medical, and executive"
+2018,5810,1.0,resolved,43-9021,,Data entry keyers
+2018,5820,1.0,resolved,43-9022,,Word processors and typists
+2018,5830,1.0,resolved,43-9031,,Desktop publishers
+2018,5840,1.0,resolved,43-9041,,Insurance claims and policy processing clerks
+2018,5850,1.0,resolved,43-9051,,"Mail clerks and mail machine operators, except postal service"
+2018,5860,1.0,resolved,43-9061,,"Office clerks, general"
+2018,5900,1.0,resolved,43-9071,,"Office machine operators, except computer"
+2018,5910,0.0,resolved,43-9081,,Proofreaders and copy markers
+2018,5920,0.0,resolved,43-9111,,Statistical assistants
+2018,5940,1.0,resolved,43-9199,,"Office and administrative support workers, all other"
+2018,6005,1.0,resolved,45-1011,,"First-line supervisors of farming, fishing, and forestry workers"
+2018,6010,0.0,resolved,45-2011,,Agricultural inspectors
+2018,6020,1.0,resolved,45-2021,,Animal breeders
+2018,6040,1.0,resolved,45-2041,,"Graders and sorters, agricultural products"
+2018,6050,1.0,resolved,45-2091;45-2092;45-2093;45-2099,,Miscellaneous agricultural workers
+2018,6115,1.0,resolved,45-3031,,Fishing and hunting workers
+2018,6120,1.0,resolved,45-4011,,Forest and conservation workers
+2018,6130,1.0,resolved,45-4021;45-4022;45-4023;45-4029,,Logging workers
+2018,6200,1.0,resolved,47-1011,,First-line supervisors of construction trades and extraction workers
+2018,6210,1.0,resolved,47-2011,,Boilermakers
+2018,6220,1.0,resolved,47-2021;47-2022,,"Brickmasons, blockmasons, and stonemasons"
+2018,6230,1.0,resolved,47-2031,,Carpenters
+2018,6240,1.0,resolved,47-2041;47-2042;47-2043;47-2044,,"Carpet, floor, and tile installers and finishers"
+2018,6250,1.0,resolved,47-2051;47-2053,,"Cement masons, concrete finishers, and terrazzo workers"
+2018,6260,1.0,resolved,47-2061,,Construction laborers
+2018,6305,1.0,resolved,47-2071;47-2072;47-2073,,Construction equipment operators
+2018,6330,1.0,resolved,47-2081;47-2082,,"Drywall installers, ceiling tile installers, and tapers"
+2018,6355,1.0,resolved,47-2111,,Electricians
+2018,6360,1.0,resolved,47-2121,,Glaziers
+2018,6400,1.0,resolved,47-2131;47-2132,,Insulation workers
+2018,6410,1.0,resolved,47-2141;47-2142,,Painters and paperhangers
+2018,6441,1.0,resolved,47-2151,,Pipelayers
+2018,6442,1.0,resolved,47-2152,,"Plumbers, pipefitters, and steamfitters"
+2018,6460,1.0,resolved,47-2161,,Plasterers and stucco masons
+2018,6500,1.0,resolved,47-2171,,Reinforcing iron and rebar workers
+2018,6515,1.0,resolved,47-2181,,Roofers
+2018,6520,1.0,resolved,47-2211,,Sheet metal workers
+2018,6530,1.0,resolved,47-2221,,Structural iron and steel workers
+2018,6540,1.0,resolved,47-2231,,Solar photovoltaic installers
+2018,6600,1.0,resolved,47-3011;47-3012;47-3013;47-3014;47-3015;47-3016;47-3019,,"Helpers, construction trades"
+2018,6660,1.0,resolved,47-4011,,Construction and building inspectors
+2018,6700,1.0,resolved,47-4021,,Elevator and escalator installers and repairers
+2018,6710,1.0,resolved,47-4031,,Fence erectors
+2018,6720,1.0,resolved,47-4041,,Hazardous materials removal workers
+2018,6730,1.0,resolved,47-4051,,Highway maintenance workers
+2018,6740,1.0,resolved,47-4061,,Rail-track laying and maintenance equipment operators
+2018,6750,1.0,resolved,47-4071,,Septic tank servicers and sewer pipe cleaners
+2018,6765,1.0,resolved,47-4090,,Miscellaneous construction and related workers
+2018,6800,1.0,resolved,47-5011;47-5012;47-5013,,"Derrick, rotary drill, and service unit operators, oil and gas"
+2018,6821,1.0,resolved,47-5022,,"Excavating and loading machine and dragline operators, surface mining"
+2018,6825,1.0,resolved,47-5023,,"Earth drillers, except oil and gas"
+2018,6835,1.0,resolved,47-5032,,"Explosives workers, ordnance handling experts, and blasters"
+2018,6850,1.0,resolved,47-5041;47-5043;47-5044;47-5049,,Underground mining machine operators
+2018,6920,1.0,resolved,47-5071,,"Roustabouts, oil and gas"
+2018,6950,1.0,resolved,47-5051;47-5081;47-5099,,Other extraction workers
+2018,7000,1.0,resolved,49-1011,,"First-line supervisors of mechanics, installers, and repairers"
+2018,7010,1.0,resolved,49-2011,,"Computer, automated teller, and office machine repairers"
+2018,7020,1.0,resolved,49-2021;49-2022,,Radio and telecommunications equipment installers and repairers
+2018,7030,1.0,resolved,49-2091,,Avionics technicians
+2018,7040,1.0,resolved,49-2092,,"Electric motor, power tool, and related repairers"
+2018,7050,1.0,resolved,49-2093,,"Electrical and electronics installers and repairers, transportation equipment"
+2018,7100,1.0,resolved,49-2094;49-2095,,"Electrical and electronics repairers, industrial and utility"
+2018,7110,1.0,resolved,49-2096,,"Electronic equipment installers and repairers, motor vehicles"
+2018,7120,1.0,resolved,49-2097,,Audiovisual equipment installers and repairers
+2018,7130,1.0,resolved,49-2098,,Security and fire alarm systems installers
+2018,7140,1.0,resolved,49-3011,,Aircraft mechanics and service technicians
+2018,7150,1.0,resolved,49-3021,,Automotive body and related repairers
+2018,7160,1.0,resolved,49-3022,,Automotive glass installers and repairers
+2018,7200,1.0,resolved,49-3023,,Automotive service technicians and mechanics
+2018,7210,1.0,resolved,49-3031,,Bus and truck mechanics and diesel engine specialists
+2018,7220,1.0,resolved,49-3041;49-3042;49-3043,,Heavy vehicle and mobile equipment service technicians and mechanics
+2018,7240,1.0,resolved,49-3051;49-3052;49-3053,,Small engine mechanics
+2018,7260,1.0,resolved,49-3091;49-3092;49-3093,,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers"
+2018,7300,1.0,resolved,49-9011;49-9012,,Control and valve installers and repairers
+2018,7315,1.0,resolved,49-9021,,"Heating, air conditioning, and refrigeration mechanics and installers"
+2018,7320,1.0,resolved,49-9031,,Home appliance repairers
+2018,7330,1.0,resolved,49-9041;49-9045,,Industrial and refractory machinery mechanics
+2018,7340,1.0,resolved,49-9071,,"Maintenance and repair workers, general"
+2018,7350,1.0,resolved,49-9043,,"Maintenance workers, machinery"
+2018,7360,1.0,resolved,49-9044,,Millwrights
+2018,7410,1.0,resolved,49-9051,,Electrical power-line installers and repairers
+2018,7420,1.0,resolved,49-9052,,Telecommunications line installers and repairers
+2018,7430,1.0,resolved,49-9061;49-9062;49-9063;49-9064;49-9069,,Precision instrument and equipment repairers
+2018,7440,1.0,resolved,49-9081,,Wind turbine service technicians
+2018,7510,1.0,resolved,49-9091,,"Coin, vending, and amusement machine servicers and repairers"
+2018,7520,1.0,resolved,49-9092,,Commercial divers
+2018,7540,1.0,resolved,49-9094,,Locksmiths and safe repairers
+2018,7550,1.0,resolved,49-9095,,Manufactured building and mobile home installers
+2018,7560,1.0,resolved,49-9096,,Riggers
+2018,7610,1.0,resolved,49-9098,,"Helpers--installation, maintenance, and repair workers"
+2018,7640,1.0,resolved,49-9097;49-9099,,"Other installation, maintenance, and repair workers"
+2018,7700,1.0,resolved,51-1011,,First-line supervisors of production and operating workers
+2018,7710,1.0,resolved,51-2011,,"Aircraft structure, surfaces, rigging, and systems assemblers"
+2018,7720,1.0,resolved,51-2021;51-2028,,"Electrical, electronics, and electromechanical assemblers"
+2018,7730,1.0,resolved,51-2031,,Engine and other machine assemblers
+2018,7740,1.0,resolved,51-2041,,Structural metal fabricators and fitters
+2018,7750,1.0,resolved,51-2051;51-2061;51-2090,,Other assemblers and fabricators
+2018,7800,1.0,resolved,51-3011,,Bakers
+2018,7810,1.0,resolved,51-3021;51-3022;51-3023,,"Butchers and other meat, poultry, and fish processing workers"
+2018,7830,1.0,resolved,51-3091,,"Food and tobacco roasting, baking, and drying machine operators and tenders"
+2018,7840,1.0,resolved,51-3092,,Food batchmakers
+2018,7850,1.0,resolved,51-3093,,Food cooking machine operators and tenders
+2018,7855,1.0,resolved,51-3099,,"Food processing workers, all other"
+2018,7905,1.0,resolved,51-9161;51-9162,,Computer numerically controlled tool operators and programmers
+2018,7925,1.0,resolved,51-4021;51-4022;51-4023,,"Forming machine setters, operators, and tenders, metal and plastic"
+2018,7950,1.0,resolved,51-4031,,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic"
+2018,8000,1.0,resolved,51-4033,,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic"
+2018,8025,1.0,resolved,51-4032;51-4034;51-4035,,"Other machine tool setters, operators, and tenders, metal and plastic"
+2018,8030,1.0,resolved,51-4041,,Machinists
+2018,8040,1.0,resolved,51-4051;51-4052,,"Metal furnace operators, tenders, pourers, and casters"
+2018,8060,1.0,resolved,51-4061;51-4062,,"Model makers and patternmakers, metal and plastic"
+2018,8100,1.0,resolved,51-4071;51-4072,,"Molders and molding machine setters, operators, and tenders, metal and plastic"
+2018,8130,1.0,resolved,51-4111,,Tool and die makers
+2018,8140,1.0,resolved,51-4121;51-4122,,"Welding, soldering, and brazing workers"
+2018,8225,1.0,resolved,51-4032;51-4034;51-4035;51-4081;51-4191;51-4192;51-4193;51-4194;51-4199,,Other metal workers and plastic workers
+2018,8250,1.0,resolved,51-5111,,Prepress technicians and workers
+2018,8255,1.0,resolved,51-5112,,Printing press operators
+2018,8256,1.0,resolved,51-5113,,Print binding and finishing workers
+2018,8300,1.0,resolved,51-6011,,Laundry and dry-cleaning workers
+2018,8310,1.0,resolved,51-6021,,"Pressers, textile, garment, and related materials"
+2018,8320,1.0,resolved,51-6031,,Sewing machine operators
+2018,8335,1.0,resolved,51-6041;51-6042,,Shoe and leather workers
+2018,8350,1.0,resolved,51-6051;51-6052,,"Tailors, dressmakers, and sewers"
+2018,8365,1.0,resolved,51-6061;51-6062;51-6063;51-6064,,"Textile machine setters, operators, and tenders"
+2018,8450,1.0,resolved,51-6093,,Upholsterers
+2018,8465,1.0,resolved,51-6091;51-6092;51-6099,,"Other textile, apparel, and furnishings workers"
+2018,8500,1.0,resolved,51-7011,,Cabinetmakers and bench carpenters
+2018,8510,1.0,resolved,51-7021,,Furniture finishers
+2018,8530,1.0,resolved,51-7041,,"Sawing machine setters, operators, and tenders, wood"
+2018,8540,1.0,resolved,51-7042,,"Woodworking machine setters, operators, and tenders, except sawing"
+2018,8555,1.0,resolved,51-7031;51-7032;51-7099,,Other woodworkers
+2018,8600,1.0,resolved,51-8011;51-8012;51-8013,,"Power plant operators, distributors, and dispatchers"
+2018,8610,1.0,resolved,51-8021,,Stationary engineers and boiler operators
+2018,8620,1.0,resolved,51-8031,,Water and wastewater treatment plant and system operators
+2018,8630,1.0,resolved,51-8091;51-8092;51-8093;51-8099,,Miscellaneous plant and system operators
+2018,8640,1.0,resolved,51-9011;51-9012,,"Chemical processing machine setters, operators, and tenders"
+2018,8650,1.0,resolved,51-9021;51-9022;51-9023,,"Crushing, grinding, polishing, mixing, and blending workers"
+2018,8710,1.0,resolved,51-9031;51-9032,,Cutting workers
+2018,8720,1.0,resolved,51-9041,,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders"
+2018,8730,1.0,resolved,51-9051,,"Furnace, kiln, oven, drier, and kettle operators and tenders"
+2018,8740,1.0,resolved,51-9061,,"Inspectors, testers, sorters, samplers, and weighers"
+2018,8750,1.0,resolved,51-9071,,Jewelers and precious stone and metal workers
+2018,8760,1.0,resolved,51-9081;51-9082;51-9083,,Dental and ophthalmic laboratory technicians and medical appliance technicians
+2018,8800,1.0,resolved,51-9111,,Packaging and filling machine operators and tenders
+2018,8810,1.0,resolved,51-9123;51-9124,,Painting workers
+2018,8830,1.0,resolved,51-9151,,Photographic process workers and processing machine operators
+2018,8850,1.0,resolved,51-9191,,Adhesive bonding machine operators and tenders
+2018,8910,1.0,resolved,51-9194,,Etchers and engravers
+2018,8920,1.0,resolved,51-9195,,"Molders, shapers, and casters, except metal and plastic"
+2018,8930,1.0,resolved,51-9196,,"Paper goods machine setters, operators, and tenders"
+2018,8940,1.0,resolved,51-9197,,Tire builders
+2018,8950,1.0,resolved,51-9198,,Helpers--production workers
+2018,8865,1.0,resolved,51-9192;51-9193;51-9199,,Other production equipment operators and tenders
+2018,8990,1.0,resolved,51-9141;51-9192;51-9193;51-9199,,Other production workers
+2018,9005,1.0,resolved,53-1041;53-1047,,Supervisors of transportation and material moving workers
+2018,9030,,mixed,53-2011;53-2012,,Aircraft pilots and flight engineers
+2018,9040,1.0,resolved,53-2021;53-2022,,Air traffic controllers and airfield operations specialists
+2018,9050,1.0,resolved,53-2031,,Flight attendants
+2018,9110,1.0,resolved,53-3011,,"Ambulance drivers and attendants, except emergency medical technicians"
+2018,9121,1.0,resolved,53-3051,,"Bus drivers, school"
+2018,9122,1.0,resolved,53-3052,,"Bus drivers, transit and intercity"
+2018,9130,1.0,resolved,53-3031;53-3032;53-3033,,Driver/sales workers and truck drivers
+2018,9141,1.0,resolved,53-3053,,Shuttle drivers and chauffeurs
+2018,9142,1.0,resolved,53-3054,,Taxi drivers
+2018,9150,1.0,resolved,53-3099,,"Motor vehicle operators, all other"
+2018,9210,1.0,resolved,53-4011;53-4013,,Locomotive engineers and operators
+2018,9240,1.0,resolved,53-4031,,Railroad conductors and yardmasters
+2018,9265,1.0,resolved,53-4022;53-4041;53-4099,,Other rail transportation workers
+2018,9300,1.0,resolved,53-5011,,Sailors and marine oilers
+2018,9310,1.0,resolved,53-5021;53-5022,,Ship and boat captains and operators
+2018,9330,1.0,resolved,53-5031,,Ship engineers
+2018,9350,1.0,resolved,53-6021,,Parking attendants
+2018,9365,1.0,resolved,53-6031;53-6032,,Transportation service attendants
+2018,9410,1.0,resolved,53-6051,,Transportation inspectors
+2018,9415,1.0,resolved,53-6061,,Passenger attendants
+2018,9430,1.0,resolved,53-6011;53-6041;53-6099,,Other transportation workers
+2018,9510,1.0,resolved,53-7021,,Crane and tower operators
+2018,9570,1.0,resolved,53-7011;53-7031;53-7041,,"Conveyor, dredge, and hoist and winch operators"
+2018,9600,1.0,resolved,53-7051,,Industrial truck and tractor operators
+2018,9610,1.0,resolved,53-7061,,Cleaners of vehicles and equipment
+2018,9620,1.0,resolved,53-7062,,"Laborers and freight, stock, and material movers, hand"
+2018,9630,1.0,resolved,53-7063,,Machine feeders and offbearers
+2018,9640,1.0,resolved,53-7064,,"Packers and packagers, hand"
+2018,9645,1.0,resolved,53-7065,,Stockers and order fillers
+2018,9650,1.0,resolved,53-7071;53-7072;53-7073,,Pumping station operators
+2018,9720,1.0,resolved,53-7081,,Refuse and recyclable material collectors
+2018,9760,1.0,resolved,53-7121;53-7199,,Other material moving workers
+2018,9800,,unmapped,,,Military officer special and tactical operations leaders
+2018,9810,,unmapped,,,First-line enlisted military supervisors
+2018,9825,,unmapped,,,Military enlisted tactical operations and air/weapons specialists and crew members
+2018,9830,,unmapped,,,"Military, rank not Specified"
+2018,9920,,unmapped,,,"Unemployed, with no work experience in the last 5 years or earlier or never worked"
+2010,10,0.0,resolved,,10,
+2010,20,0.0,resolved,,20,
+2010,30,,unmapped,,30,
+2010,40,0.0,resolved,,40,
+2010,50,0.0,resolved,,51;52,
+2010,60,0.0,resolved,,60,
+2010,100,0.0,resolved,,101;102,
+2010,110,0.0,resolved,,110,
+2010,120,0.0,resolved,,120,
+2010,135,0.0,resolved,,135,
+2010,136,0.0,resolved,,136,
+2010,137,0.0,resolved,,137,
+2010,140,0.0,resolved,,140,
+2010,150,0.0,resolved,,150,
+2010,160,1.0,resolved,,160,
+2010,205,1.0,resolved,,205,
+2010,220,0.0,resolved,,220,
+2010,230,0.0,resolved,,230,
+2010,300,0.0,resolved,,300,
+2010,310,1.0,resolved,,310,
+2010,325,1.0,resolved,,325,
+2010,330,,mixed,,335,
+2010,340,1.0,resolved,,340,
+2010,350,0.0,resolved,,350,
+2010,360,0.0,resolved,,360,
+2010,400,1.0,resolved,,400,
+2010,410,1.0,resolved,,410,
+2010,420,0.0,resolved,,420,
+2010,425,,mixed,,425;426,
+2010,430,0.0,resolved,,440,
+2010,500,0.0,resolved,,500,
+2010,510,0.0,resolved,,510,
+2010,520,0.0,resolved,,520,
+2010,530,0.0,resolved,,530,
+2010,540,1.0,resolved,,540,
+2010,565,0.0,resolved,,565,
+2010,600,0.0,resolved,,600,
+2010,630,,mixed,,630,
+2010,700,0.0,resolved,,700;705,
+2010,710,0.0,resolved,,710,
+2010,725,0.0,resolved,,725,
+2010,726,0.0,resolved,,726,
+2010,640,0.0,resolved,,640,
+2010,650,0.0,resolved,,650,
+2010,735,0.0,resolved,,735,
+2010,740,0.0,resolved,,750,
+2010,800,0.0,resolved,,800,
+2010,810,0.0,resolved,,810,
+2010,820,0.0,resolved,,820,
+2010,830,0.0,resolved,,830,
+2010,840,0.0,resolved,,845,
+2010,850,0.0,resolved,,850,
+2010,860,0.0,resolved,,860,
+2010,900,0.0,resolved,,900,
+2010,910,0.0,resolved,,910,
+2010,930,0.0,resolved,,930,
+2010,940,1.0,resolved,,940,
+2010,950,0.0,resolved,,960,
+2010,1005,0.0,resolved,,1005,
+2010,1006,0.0,resolved,,1006,
+2010,1107,0.0,resolved,,1108,
+2010,1010,0.0,resolved,,1010,
+2010,1020,0.0,resolved,,1021;1022,
+2010,1050,1.0,resolved,,1050,
+2010,1060,0.0,resolved,,1065,
+2010,1105,0.0,resolved,,1105,
+2010,1007,0.0,resolved,,1007,
+2010,1030,0.0,resolved,,1031;1032,
+2010,1106,0.0,resolved,,1106,
+2010,1200,0.0,resolved,,1200,
+2010,1210,0.0,resolved,,1210,
+2010,1220,0.0,resolved,,1220,
+2010,1230,0.0,resolved,,1230,
+2010,1240,0.0,resolved,,1240,
+2010,1300,0.0,resolved,,1305;1306,
+2010,1310,0.0,resolved,,1310,
+2010,1320,0.0,resolved,,1320,
+2010,1330,0.0,resolved,,1330,
+2010,1340,0.0,resolved,,1340,
+2010,1350,0.0,resolved,,1350,
+2010,1360,0.0,resolved,,1360,
+2010,1400,0.0,resolved,,1400,
+2010,1410,0.0,resolved,,1410,
+2010,1420,0.0,resolved,,1420,
+2010,1430,0.0,resolved,,1430,
+2010,1440,0.0,resolved,,1440,
+2010,1450,0.0,resolved,,1450,
+2010,1460,0.0,resolved,,1460,
+2010,1500,0.0,resolved,,1500,
+2010,1510,0.0,resolved,,1510,
+2010,1520,0.0,resolved,,1520,
+2010,1530,0.0,resolved,,1530,
+2010,1540,1.0,resolved,,1541;1545,
+2010,1550,1.0,resolved,,1551;1555,
+2010,1560,1.0,resolved,,1560,
+2010,1600,0.0,resolved,,1600,
+2010,1610,0.0,resolved,,1610,
+2010,1640,0.0,resolved,,1640,
+2010,1650,0.0,resolved,,1650,
+2010,1660,0.0,resolved,,1660,
+2010,1700,0.0,resolved,,1700,
+2010,1710,0.0,resolved,,1710,
+2010,1720,0.0,resolved,,1720,
+2010,1740,0.0,resolved,,1745;1750,
+2010,1760,0.0,resolved,,1760,
+2010,1800,0.0,resolved,,1800,
+2010,1815,0.0,resolved,,1815,
+2010,1820,0.0,resolved,,1821;1822;1825,
+2010,1830,0.0,resolved,,1830,
+2010,1840,0.0,resolved,,1840,
+2010,1860,0.0,resolved,,1860,
+2010,1900,1.0,resolved,,1900,
+2010,1910,0.0,resolved,,1910,
+2010,1920,1.0,resolved,,1920,
+2010,1930,1.0,resolved,,1935,
+2010,1940,1.0,resolved,,1940,
+2010,1950,0.0,resolved,,1950,
+2010,1965,,mixed,,1970,
+2010,2000,,unmapped,,2001;2002;2003;2004;2005;2006,
+2010,2010,0.0,resolved,,2011;2012;2013;2014,
+2010,2015,0.0,resolved,,2015,
+2010,2016,1.0,resolved,,2016,
+2010,2025,,mixed,,2025,
+2010,2040,0.0,resolved,,2040,
+2010,2050,0.0,resolved,,2050,
+2010,2060,0.0,resolved,,2060,
+2010,2100,0.0,resolved,,2100,
+2010,2105,0.0,resolved,,2105,
+2010,2110,0.0,resolved,,2110,
+2010,2145,1.0,resolved,,2145,
+2010,2160,1.0,resolved,,2170;2180;2862,
+2010,2200,0.0,resolved,,2205,
+2010,2300,,mixed,,2300,
+2010,2310,0.0,resolved,,2310,
+2010,2320,0.0,resolved,,2320,
+2010,2330,0.0,resolved,,2330,
+2010,2340,,mixed,,2350;2360,
+2010,2400,0.0,resolved,,2400,
+2010,2430,0.0,resolved,,2435,
+2010,2440,1.0,resolved,,2440,
+2010,2540,,mixed,,2545,
+2010,2550,0.0,resolved,,2555,
+2010,2600,,mixed,,2600,
+2010,2630,,mixed,,2631;2632;2633;2634;2635;2636;2640,
+2010,2700,1.0,resolved,,2700,
+2010,2710,0.0,resolved,,2710,
+2010,2720,,mixed,,2721;2722;2723,
+2010,2740,1.0,resolved,,2740,
+2010,2750,,mixed,,2751;2752;2755,
+2010,2760,1.0,resolved,,2770,
+2010,2800,0.0,resolved,,2805,
+2010,2810,0.0,resolved,,2810,
+2010,2825,0.0,resolved,,2825,
+2010,2830,0.0,resolved,,2830,
+2010,2840,0.0,resolved,,2840,
+2010,2850,0.0,resolved,,2850,
+2010,2860,,mixed,,2861;2865,
+2010,2900,1.0,resolved,,2905,
+2010,2910,1.0,resolved,,2910,
+2010,2920,0.0,resolved,,2920,
+2010,2960,1.0,resolved,,2970,
+2010,3000,0.0,resolved,,3000,
+2010,3010,0.0,resolved,,3010,
+2010,3030,0.0,resolved,,3030,
+2010,3040,0.0,resolved,,3040,
+2010,3050,0.0,resolved,,3050,
+2010,3060,0.0,resolved,,3065;3070;3090;3100,
+2010,3110,0.0,resolved,,3110,
+2010,3120,0.0,resolved,,3120,
+2010,3150,0.0,resolved,,3150,
+2010,3160,0.0,resolved,,3160,
+2010,3200,1.0,resolved,,3200,
+2010,3210,0.0,resolved,,3210,
+2010,3220,1.0,resolved,,3220,
+2010,3230,0.0,resolved,,3230,
+2010,3235,0.0,resolved,,3235,
+2010,3245,0.0,resolved,,3245,
+2010,3250,0.0,resolved,,3250,
+2010,3255,0.0,resolved,,3255,
+2010,3256,0.0,resolved,,3256,
+2010,3257,0.0,resolved,,3257,
+2010,3258,0.0,resolved,,3258,
+2010,3140,0.0,resolved,,3140,
+2010,3260,0.0,resolved,,3261;3270,
+2010,3300,0.0,resolved,,3300,
+2010,3310,1.0,resolved,,3310,
+2010,3320,,mixed,,3321;3322;3323;3324;3330,
+2010,3400,1.0,resolved,,3401;3402,
+2010,3420,1.0,resolved,,3421;3422;3423;3424;3430,
+2010,3500,1.0,resolved,,3500,
+2010,3510,1.0,resolved,,3515,
+2010,3520,1.0,resolved,,3520,
+2010,3535,,mixed,,3545,
+2010,3540,,mixed,,1980;3550,
+2010,3600,1.0,resolved,,3601;3603;3605,
+2010,3610,1.0,resolved,,3610,
+2010,3620,1.0,resolved,,3620,
+2010,3630,1.0,resolved,,3630,
+2010,3640,1.0,resolved,,3640,
+2010,3645,1.0,resolved,,3645,
+2010,3646,1.0,resolved,,3646,
+2010,3647,1.0,resolved,,3647,
+2010,3648,1.0,resolved,,3648,
+2010,3649,1.0,resolved,,3649,
+2010,3655,1.0,resolved,,3655,
+2010,3700,1.0,resolved,,3700,
+2010,3710,1.0,resolved,,3710,
+2010,3720,1.0,resolved,,3720,
+2010,3730,1.0,resolved,,3725;3735,
+2010,3740,1.0,resolved,,3740,
+2010,3750,1.0,resolved,,3750,
+2010,3800,1.0,resolved,,3801;3802,
+2010,3820,1.0,resolved,,3820,
+2010,3830,0.0,resolved,,3830,
+2010,3840,1.0,resolved,,3840;3870,
+2010,3900,1.0,resolved,,3900,
+2010,3910,1.0,resolved,,3910,
+2010,3930,1.0,resolved,,3930,
+2010,3940,1.0,resolved,,3940,
+2010,3945,1.0,resolved,,3945,
+2010,3955,1.0,resolved,,3946;3960,
+2010,4000,1.0,resolved,,4000,
+2010,4010,1.0,resolved,,4010,
+2010,4020,1.0,resolved,,4020,
+2010,4030,1.0,resolved,,4030,
+2010,4040,1.0,resolved,,4040;4055,
+2010,4110,1.0,resolved,,4110,
+2010,4120,1.0,resolved,,4120,
+2010,4130,1.0,resolved,,4130,
+2010,4140,1.0,resolved,,4140,
+2010,4150,1.0,resolved,,4150,
+2010,4160,1.0,resolved,,4160,
+2010,4200,1.0,resolved,,4200,
+2010,4210,1.0,resolved,,4210,
+2010,4220,1.0,resolved,,4220,
+2010,4230,1.0,resolved,,4230,
+2010,4240,1.0,resolved,,4240,
+2010,4250,1.0,resolved,,4251;4252;4255;4330,
+2010,4340,1.0,resolved,,4340,
+2010,4350,1.0,resolved,,4350,
+2010,4400,1.0,resolved,,4400,
+2010,4420,1.0,resolved,,4420,
+2010,4430,1.0,resolved,,4435,
+2010,4460,1.0,resolved,,4461,
+2010,4465,1.0,resolved,,4465,
+2010,4500,1.0,resolved,,4500,
+2010,4510,1.0,resolved,,4510,
+2010,4520,1.0,resolved,,4521;4522;4525,
+2010,4530,1.0,resolved,,4530,
+2010,4540,1.0,resolved,,4540,
+2010,4600,1.0,resolved,,4600,
+2010,4610,1.0,resolved,,3602,
+2010,4620,1.0,resolved,,4621;4622,
+2010,4640,1.0,resolved,,4640,
+2010,4650,1.0,resolved,,4655,
+2010,4700,1.0,resolved,,4700,
+2010,4710,1.0,resolved,,4710,
+2010,4720,1.0,resolved,,4720,
+2010,4740,1.0,resolved,,4740,
+2010,4750,1.0,resolved,,4750,
+2010,4760,1.0,resolved,,4760,
+2010,4800,1.0,resolved,,4800,
+2010,4810,1.0,resolved,,4810,
+2010,4820,0.0,resolved,,4820,
+2010,4830,1.0,resolved,,4830,
+2010,4840,1.0,resolved,,4840,
+2010,4850,,mixed,,4850,
+2010,4900,1.0,resolved,,4900,
+2010,4920,1.0,resolved,,4920,
+2010,4930,0.0,resolved,,4930,
+2010,4940,1.0,resolved,,4940,
+2010,4950,1.0,resolved,,4950,
+2010,4965,1.0,resolved,,4965,
+2010,5000,1.0,resolved,,5000,
+2010,5010,1.0,resolved,,5010,
+2010,5020,1.0,resolved,,5020,
+2010,5030,1.0,resolved,,5040,
+2010,5100,1.0,resolved,,5100,
+2010,5110,1.0,resolved,,5110,
+2010,5120,1.0,resolved,,5120,
+2010,5130,1.0,resolved,,5130,
+2010,5140,1.0,resolved,,5140,
+2010,5150,1.0,resolved,,5150,
+2010,5160,1.0,resolved,,5160,
+2010,5165,1.0,resolved,,5165,
+2010,5200,1.0,resolved,,5200,
+2010,5210,1.0,resolved,,5210,
+2010,5220,1.0,resolved,,5220,
+2010,5230,1.0,resolved,,5230,
+2010,5240,1.0,resolved,,5240,
+2010,5250,1.0,resolved,,5250,
+2010,5260,1.0,resolved,,5260,
+2010,5300,1.0,resolved,,5300,
+2010,5310,1.0,resolved,,5310,
+2010,5320,1.0,resolved,,5320,
+2010,5330,1.0,resolved,,5330,
+2010,5340,1.0,resolved,,5340,
+2010,5350,1.0,resolved,,5350,
+2010,5360,1.0,resolved,,5360,
+2010,5400,1.0,resolved,,5400,
+2010,5410,1.0,resolved,,5410,
+2010,5420,1.0,resolved,,5420,
+2010,5500,1.0,resolved,,5500,
+2010,5510,1.0,resolved,,5510,
+2010,5520,1.0,resolved,,5521;5522,
+2010,5530,1.0,resolved,,5530,
+2010,5540,1.0,resolved,,5540,
+2010,5550,1.0,resolved,,5550,
+2010,5560,1.0,resolved,,5560,
+2010,5600,1.0,resolved,,5600,
+2010,5610,1.0,resolved,,5610,
+2010,5620,1.0,resolved,,9645,
+2010,5630,1.0,resolved,,5630,
+2010,5700,1.0,resolved,,5710;5720;5730;5740,
+2010,5810,1.0,resolved,,5810,
+2010,5820,1.0,resolved,,5820,
+2010,5830,1.0,resolved,,5830,
+2010,5840,1.0,resolved,,5840,
+2010,5850,1.0,resolved,,5850,
+2010,5860,1.0,resolved,,5860,
+2010,5900,1.0,resolved,,5900,
+2010,5910,0.0,resolved,,5910,
+2010,5920,0.0,resolved,,5920,
+2010,5940,1.0,resolved,,5940,
+2010,6005,1.0,resolved,,6005,
+2010,6010,0.0,resolved,,6010,
+2010,6020,1.0,resolved,,6020,
+2010,6040,1.0,resolved,,6040,
+2010,6050,1.0,resolved,,6050;6115,
+2010,6120,1.0,resolved,,6120,
+2010,6130,1.0,resolved,,6130,
+2010,6200,1.0,resolved,,6200,
+2010,6210,1.0,resolved,,6210,
+2010,6220,1.0,resolved,,6220,
+2010,6230,1.0,resolved,,6230,
+2010,6240,1.0,resolved,,6240,
+2010,6250,1.0,resolved,,6250,
+2010,6260,1.0,resolved,,6260;6305,
+2010,6330,1.0,resolved,,6330,
+2010,6355,1.0,resolved,,6355,
+2010,6360,1.0,resolved,,6360,
+2010,6400,1.0,resolved,,6400;6410,
+2010,6440,1.0,resolved,,6441;6442,
+2010,6460,1.0,resolved,,6460,
+2010,6500,1.0,resolved,,6500,
+2010,6515,1.0,resolved,,6515,
+2010,6520,1.0,resolved,,6520,
+2010,6530,1.0,resolved,,6530,
+2010,6540,1.0,resolved,,6540,
+2010,6600,1.0,resolved,,6600,
+2010,6660,1.0,resolved,,6660,
+2010,6700,1.0,resolved,,6700,
+2010,6710,1.0,resolved,,6710,
+2010,6720,1.0,resolved,,6720,
+2010,6730,1.0,resolved,,6730,
+2010,6740,1.0,resolved,,6740,
+2010,6750,1.0,resolved,,6750,
+2010,6765,1.0,resolved,,6765,
+2010,6800,1.0,resolved,,6800,
+2010,6820,1.0,resolved,,6825,
+2010,6830,1.0,resolved,,6835;6850,
+2010,6920,1.0,resolved,,6920,
+2010,6940,1.0,resolved,,6950,
+2010,7000,1.0,resolved,,7000,
+2010,7010,1.0,resolved,,7010,
+2010,7020,1.0,resolved,,7020,
+2010,7030,1.0,resolved,,7030,
+2010,7040,1.0,resolved,,7040,
+2010,7050,1.0,resolved,,7050,
+2010,7100,1.0,resolved,,7100,
+2010,7110,1.0,resolved,,7110,
+2010,7120,1.0,resolved,,7120,
+2010,7130,1.0,resolved,,7130,
+2010,7140,1.0,resolved,,7140,
+2010,7150,1.0,resolved,,7150,
+2010,7160,1.0,resolved,,7160,
+2010,7200,1.0,resolved,,7200,
+2010,7210,1.0,resolved,,7210,
+2010,7220,1.0,resolved,,7220,
+2010,7240,1.0,resolved,,7240,
+2010,7260,1.0,resolved,,7260,
+2010,7300,1.0,resolved,,7300,
+2010,7315,1.0,resolved,,7315,
+2010,7320,1.0,resolved,,7320,
+2010,7330,1.0,resolved,,7330,
+2010,7340,1.0,resolved,,7340,
+2010,7350,1.0,resolved,,7350,
+2010,7360,1.0,resolved,,7360,
+2010,7410,1.0,resolved,,7410,
+2010,7420,1.0,resolved,,7420,
+2010,7430,1.0,resolved,,7430,
+2010,7440,1.0,resolved,,7440,
+2010,7510,1.0,resolved,,7510,
+2010,7520,1.0,resolved,,7520,
+2010,7540,1.0,resolved,,7540,
+2010,7550,1.0,resolved,,7550,
+2010,7560,1.0,resolved,,7560,
+2010,7610,1.0,resolved,,7610;7640,
+2010,7700,1.0,resolved,,7700,
+2010,7710,1.0,resolved,,7710,
+2010,7720,1.0,resolved,,7720,
+2010,7730,1.0,resolved,,7730,
+2010,7740,1.0,resolved,,7740,
+2010,7750,1.0,resolved,,7750,
+2010,7800,1.0,resolved,,7800,
+2010,7810,1.0,resolved,,7810,
+2010,7830,1.0,resolved,,7830,
+2010,7840,1.0,resolved,,7840,
+2010,7850,1.0,resolved,,7850,
+2010,7855,1.0,resolved,,7855,
+2010,7900,1.0,resolved,,7905;7925,
+2010,7950,1.0,resolved,,7950,
+2010,8000,1.0,resolved,,8000;8025,
+2010,8030,1.0,resolved,,8030,
+2010,8040,1.0,resolved,,8040,
+2010,8060,1.0,resolved,,8060,
+2010,8100,1.0,resolved,,8100,
+2010,8130,1.0,resolved,,8130,
+2010,8140,1.0,resolved,,8140;8225,
+2010,8250,1.0,resolved,,8250,
+2010,8255,1.0,resolved,,8255,
+2010,8256,1.0,resolved,,8256,
+2010,8300,1.0,resolved,,8300,
+2010,8310,1.0,resolved,,8310,
+2010,8320,1.0,resolved,,8320;8335,
+2010,8350,1.0,resolved,,8350;8365,
+2010,8450,1.0,resolved,,8450;8465,
+2010,8500,1.0,resolved,,8500,
+2010,8510,1.0,resolved,,8510,
+2010,8530,1.0,resolved,,8530,
+2010,8540,1.0,resolved,,8540;8555,
+2010,8600,1.0,resolved,,8600,
+2010,8610,1.0,resolved,,8610,
+2010,8620,1.0,resolved,,8620,
+2010,8630,1.0,resolved,,8630,
+2010,8640,1.0,resolved,,8640,
+2010,8650,1.0,resolved,,8650,
+2010,8710,1.0,resolved,,8710,
+2010,8720,1.0,resolved,,8720,
+2010,8730,1.0,resolved,,8730,
+2010,8740,1.0,resolved,,8740,
+2010,8750,1.0,resolved,,8750,
+2010,8760,1.0,resolved,,8760,
+2010,8800,1.0,resolved,,8800,
+2010,8810,1.0,resolved,,8810,
+2010,8830,1.0,resolved,,8830,
+2010,8850,1.0,resolved,,8850,
+2010,8910,1.0,resolved,,8910,
+2010,8920,1.0,resolved,,8920,
+2010,8930,1.0,resolved,,8930,
+2010,8940,1.0,resolved,,8940,
+2010,8950,1.0,resolved,,8865;8950,
+2010,8900,1.0,resolved,,8990,
+2010,9000,1.0,resolved,,9005,
+2010,9030,,mixed,,9030,
+2010,9040,1.0,resolved,,9040,
+2010,9050,1.0,resolved,,9050,
+2010,9110,1.0,resolved,,9110,
+2010,9120,1.0,resolved,,9121;9122,
+2010,9130,1.0,resolved,,9130,
+2010,9140,1.0,resolved,,9141;9142,
+2010,9150,1.0,resolved,,9150,
+2010,9200,1.0,resolved,,9210,
+2010,9240,1.0,resolved,,9240;9265,
+2010,9300,1.0,resolved,,9300,
+2010,9330,1.0,resolved,,9330,
+2010,9310,1.0,resolved,,9310,
+2010,9350,1.0,resolved,,9350,
+2010,9360,1.0,resolved,,9365,
+2010,9410,1.0,resolved,,9410,
+2010,9415,1.0,resolved,,9415;9430,
+2010,9510,1.0,resolved,,6821;9510;9570,
+2010,9600,1.0,resolved,,9600,
+2010,9610,1.0,resolved,,9610,
+2010,9620,1.0,resolved,,9620,
+2010,9630,1.0,resolved,,9630,
+2010,9640,1.0,resolved,,9640,
+2010,9650,1.0,resolved,,9650,
+2010,9720,1.0,resolved,,9720;9760,
+2010,9800,,unmapped,,9800,
+2010,9810,,unmapped,,9810,
+2010,9820,,unmapped,,9825,
+2010,9830,,unmapped,,9830,
+2010,9920,,unmapped,,9920,

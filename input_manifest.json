@@ -1,0 +1,2334 @@
+{
+  "missing_months": [
+    "2025-10"
+  ],
+  "files": [
+    {
+      "period": "2011-01",
+      "file": "jan11pub.zip",
+      "bytes": 13078592,
+      "zip_entries": [
+        {
+          "name": "jan11pub.dat",
+          "size": 144673728,
+          "crc": 1097327758
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-02",
+      "file": "feb11pub.zip",
+      "bytes": 12970886,
+      "zip_entries": [
+        {
+          "name": "feb11pub.dat",
+          "size": 143914830,
+          "crc": 3396616083
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-03",
+      "file": "mar11pub.zip",
+      "bytes": 12848765,
+      "zip_entries": [
+        {
+          "name": "mar11pub.dat",
+          "size": 143220600,
+          "crc": 238131981
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-04",
+      "file": "apr11pub.zip",
+      "bytes": 12913944,
+      "zip_entries": [
+        {
+          "name": "apr11pub.dat",
+          "size": 144025146,
+          "crc": 115898464
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-05",
+      "file": "may11pub.zip",
+      "bytes": 13002327,
+      "zip_entries": [
+        {
+          "name": "may11pub.dat",
+          "size": 144856320,
+          "crc": 601517700
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-06",
+      "file": "jun11pub.zip",
+      "bytes": 13014971,
+      "zip_entries": [
+        {
+          "name": "jun11pub.dat",
+          "size": 144441684,
+          "crc": 813519251
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-07",
+      "file": "jul11pub.zip",
+      "bytes": 13050649,
+      "zip_entries": [
+        {
+          "name": "jul11pub.dat",
+          "size": 144799260,
+          "crc": 778786841
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-08",
+      "file": "aug11pub.zip",
+      "bytes": 13051224,
+      "zip_entries": [
+        {
+          "name": "aug11pub.dat",
+          "size": 144968538,
+          "crc": 1330812438
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-09",
+      "file": "sep11pub.zip",
+      "bytes": 13014639,
+      "zip_entries": [
+        {
+          "name": "sep11pub.dat",
+          "size": 145056981,
+          "crc": 2182988423
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-10",
+      "file": "oct11pub.zip",
+      "bytes": 13090218,
+      "zip_entries": [
+        {
+          "name": "oct11pub.dat",
+          "size": 145356546,
+          "crc": 3152164029
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-11",
+      "file": "nov11pub.zip",
+      "bytes": 12968083,
+      "zip_entries": [
+        {
+          "name": "nov11pub.dat",
+          "size": 144338976,
+          "crc": 3984028686
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2011-12",
+      "file": "dec11pub.zip",
+      "bytes": 12917888,
+      "zip_entries": [
+        {
+          "name": "dec11pub.dat",
+          "size": 143893908,
+          "crc": 2271103271
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-01",
+      "file": "jan12pub.zip",
+      "bytes": 12920639,
+      "zip_entries": [
+        {
+          "name": "jan12pub.dat",
+          "size": 143616216,
+          "crc": 3046256222
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-02",
+      "file": "feb12pub.zip",
+      "bytes": 12893752,
+      "zip_entries": [
+        {
+          "name": "feb12pub.dat",
+          "size": 143271954,
+          "crc": 3207368717
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-03",
+      "file": "mar12pub.zip",
+      "bytes": 12799386,
+      "zip_entries": [
+        {
+          "name": "mar12pub.dat",
+          "size": 142797405,
+          "crc": 1421239691
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-04",
+      "file": "apr12pub.zip",
+      "bytes": 12864362,
+      "zip_entries": [
+        {
+          "name": "apr12pub.dat",
+          "size": 143848260,
+          "crc": 2294648030
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-05",
+      "file": "may12pub.zip",
+      "bytes": 12869380,
+      "zip_entries": [
+        {
+          "name": "may12pub.dat",
+          "size": 143982351,
+          "crc": 644171417
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-06",
+      "file": "jun12pub.zip",
+      "bytes": 12995694,
+      "zip_entries": [
+        {
+          "name": "jun12pub.dat",
+          "size": 144350388,
+          "crc": 3712281080
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-07",
+      "file": "jul12pub.zip",
+      "bytes": 12987958,
+      "zip_entries": [
+        {
+          "name": "jul12pub.dat",
+          "size": 144261945,
+          "crc": 2685718245
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-08",
+      "file": "aug12pub.zip",
+      "bytes": 12934530,
+      "zip_entries": [
+        {
+          "name": "aug12pub.dat",
+          "size": 144031803,
+          "crc": 4096776282
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-09",
+      "file": "sep12pub.zip",
+      "bytes": 12853411,
+      "zip_entries": [
+        {
+          "name": "sep12pub.dat",
+          "size": 143716071,
+          "crc": 3903344608
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-10",
+      "file": "oct12pub.zip",
+      "bytes": 12851007,
+      "zip_entries": [
+        {
+          "name": "oct12pub.dat",
+          "size": 143478321,
+          "crc": 4085668516
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-11",
+      "file": "nov12pub.zip",
+      "bytes": 12891046,
+      "zip_entries": [
+        {
+          "name": "nov12pub.dat",
+          "size": 144169698,
+          "crc": 1760995089
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2012-12",
+      "file": "dec12pub.zip",
+      "bytes": 12859971,
+      "zip_entries": [
+        {
+          "name": "dec12pub.dat",
+          "size": 143813073,
+          "crc": 267234366
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-01",
+      "file": "jan13pub.zip",
+      "bytes": 13040305,
+      "zip_entries": [
+        {
+          "name": "jan13pub.dat",
+          "size": 144329466,
+          "crc": 3909038246
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-02",
+      "file": "feb13pub.zip",
+      "bytes": 12947072,
+      "zip_entries": [
+        {
+          "name": "feb13pub.dat",
+          "size": 143436477,
+          "crc": 554795708
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-03",
+      "file": "mar13pub.zip",
+      "bytes": 12815917,
+      "zip_entries": [
+        {
+          "name": "mar13pub.dat",
+          "size": 142794552,
+          "crc": 2294566936
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-04",
+      "file": "apr13pub.zip",
+      "bytes": 12921496,
+      "zip_entries": [
+        {
+          "name": "apr13pub.dat",
+          "size": 143981400,
+          "crc": 4105174666
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-05",
+      "file": "may13pub.zip",
+      "bytes": 12991589,
+      "zip_entries": [
+        {
+          "name": "may13pub.dat",
+          "size": 144522519,
+          "crc": 2122806437
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-06",
+      "file": "jun13pub.zip",
+      "bytes": 12955373,
+      "zip_entries": [
+        {
+          "name": "jun13pub.dat",
+          "size": 143418408,
+          "crc": 4762997
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-07",
+      "file": "jul13pub.zip",
+      "bytes": 12940836,
+      "zip_entries": [
+        {
+          "name": "jul13pub.dat",
+          "size": 142942908,
+          "crc": 807766976
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-08",
+      "file": "aug13pub.zip",
+      "bytes": 12925364,
+      "zip_entries": [
+        {
+          "name": "aug13pub.dat",
+          "size": 142979046,
+          "crc": 4170438729
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-09",
+      "file": "sep13pub.zip",
+      "bytes": 12826032,
+      "zip_entries": [
+        {
+          "name": "sep13pub.dat",
+          "size": 142612911,
+          "crc": 3421794801
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-10",
+      "file": "oct13pub.zip",
+      "bytes": 12843313,
+      "zip_entries": [
+        {
+          "name": "oct13pub.dat",
+          "size": 143003772,
+          "crc": 2005788049
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-11",
+      "file": "nov13pub.zip",
+      "bytes": 12774721,
+      "zip_entries": [
+        {
+          "name": "nov13pub.dat",
+          "size": 142713717,
+          "crc": 846726702
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2013-12",
+      "file": "dec13pub.zip",
+      "bytes": 12840429,
+      "zip_entries": [
+        {
+          "name": "dec13pub.dat",
+          "size": 143084607,
+          "crc": 257733284
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-01",
+      "file": "jan14pub.zip",
+      "bytes": 13009313,
+      "zip_entries": [
+        {
+          "name": "jan14pub.dat",
+          "size": 143382270,
+          "crc": 2728570739
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-02",
+      "file": "feb14pub.zip",
+      "bytes": 13006973,
+      "zip_entries": [
+        {
+          "name": "feb14pub.dat",
+          "size": 143071293,
+          "crc": 1063800977
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-03",
+      "file": "mar14pub.zip",
+      "bytes": 12867148,
+      "zip_entries": [
+        {
+          "name": "mar14pub.dat",
+          "size": 142396083,
+          "crc": 4252016567
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-04",
+      "file": "apr14pub.zip",
+      "bytes": 12888981,
+      "zip_entries": [
+        {
+          "name": "apr14pub.dat",
+          "size": 142670922,
+          "crc": 1011199698
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-05",
+      "file": "may14pub.zip",
+      "bytes": 13048605,
+      "zip_entries": [
+        {
+          "name": "may14pub.dat",
+          "size": 144018489,
+          "crc": 1046343470
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-06",
+      "file": "jun14pub.zip",
+      "bytes": 13117202,
+      "zip_entries": [
+        {
+          "name": "jun14pub.dat",
+          "size": 143941458,
+          "crc": 3128390215
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-07",
+      "file": "jul14pub.zip",
+      "bytes": 13253552,
+      "zip_entries": [
+        {
+          "name": "jul14pub.dat",
+          "size": 144383673,
+          "crc": 1803991482
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-08",
+      "file": "aug14pub.zip",
+      "bytes": 13267025,
+      "zip_entries": [
+        {
+          "name": "aug14pub.dat",
+          "size": 144772632,
+          "crc": 4146493850
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-09",
+      "file": "sep14pub.zip",
+      "bytes": 13208553,
+      "zip_entries": [
+        {
+          "name": "sep14pub.dat",
+          "size": 145013235,
+          "crc": 2064932058
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-10",
+      "file": "oct14pub.zip",
+      "bytes": 13409868,
+      "zip_entries": [
+        {
+          "name": "oct14pub.dat",
+          "size": 146509158,
+          "crc": 1406496020
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-11",
+      "file": "nov14pub.zip",
+      "bytes": 13394732,
+      "zip_entries": [
+        {
+          "name": "nov14pub.dat",
+          "size": 146684142,
+          "crc": 1345019297
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2014-12",
+      "file": "dec14pub.zip",
+      "bytes": 13204635,
+      "zip_entries": [
+        {
+          "name": "dec14pub.dat",
+          "size": 145354644,
+          "crc": 3346693308
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-01",
+      "file": "jan15pub.zip",
+      "bytes": 13232165,
+      "zip_entries": [
+        {
+          "name": "jan15pub.dat",
+          "size": 145841556,
+          "crc": 2909814789
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-02",
+      "file": "feb15pub.zip",
+      "bytes": 13044245,
+      "zip_entries": [
+        {
+          "name": "feb15pub.dat",
+          "size": 144350388,
+          "crc": 1347165879
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-03",
+      "file": "mar15pub.zip",
+      "bytes": 12895295,
+      "zip_entries": [
+        {
+          "name": "mar15pub.dat",
+          "size": 143512557,
+          "crc": 2133615549
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-04",
+      "file": "apr15pub.zip",
+      "bytes": 13011028,
+      "zip_entries": [
+        {
+          "name": "apr15pub.dat",
+          "size": 144507303,
+          "crc": 2257032447
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-05",
+      "file": "may15pub.zip",
+      "bytes": 12958429,
+      "zip_entries": [
+        {
+          "name": "may15pub.dat",
+          "size": 144079353,
+          "crc": 2136596943
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-06",
+      "file": "jun15pub.zip",
+      "bytes": 12847585,
+      "zip_entries": [
+        {
+          "name": "jun15pub.dat",
+          "size": 142666167,
+          "crc": 1410436998
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-07",
+      "file": "jul15pub.zip",
+      "bytes": 12781608,
+      "zip_entries": [
+        {
+          "name": "jul15pub.dat",
+          "size": 142094616,
+          "crc": 3653541482
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-08",
+      "file": "aug15pub.zip",
+      "bytes": 12800944,
+      "zip_entries": [
+        {
+          "name": "aug15pub.dat",
+          "size": 143001870,
+          "crc": 2146523133
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-09",
+      "file": "sep15pub.zip",
+      "bytes": 12814348,
+      "zip_entries": [
+        {
+          "name": "sep15pub.dat",
+          "size": 142732737,
+          "crc": 3209984317
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-10",
+      "file": "oct15pub.zip",
+      "bytes": 12845787,
+      "zip_entries": [
+        {
+          "name": "oct15pub.dat",
+          "size": 143504949,
+          "crc": 683966946
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-11",
+      "file": "nov15pub.zip",
+      "bytes": 12840099,
+      "zip_entries": [
+        {
+          "name": "nov15pub.dat",
+          "size": 143710365,
+          "crc": 1666998681
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2015-12",
+      "file": "dec15pub.zip",
+      "bytes": 12753141,
+      "zip_entries": [
+        {
+          "name": "dec15pub.dat",
+          "size": 143203482,
+          "crc": 3349115625
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-01",
+      "file": "jan16pub.zip",
+      "bytes": 12833620,
+      "zip_entries": [
+        {
+          "name": "jan16pub.dat",
+          "size": 143610510,
+          "crc": 3663144442
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-02",
+      "file": "feb16pub.zip",
+      "bytes": 12756944,
+      "zip_entries": [
+        {
+          "name": "feb16pub.dat",
+          "size": 142929594,
+          "crc": 2863344149
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-03",
+      "file": "mar16pub.zip",
+      "bytes": 12539080,
+      "zip_entries": [
+        {
+          "name": "mar16pub.dat",
+          "size": 141343326,
+          "crc": 1674589275
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-04",
+      "file": "apr16pub.zip",
+      "bytes": 12651295,
+      "zip_entries": [
+        {
+          "name": "apr16pub.dat",
+          "size": 142146921,
+          "crc": 2647835396
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-05",
+      "file": "may16pub.zip",
+      "bytes": 12716326,
+      "zip_entries": [
+        {
+          "name": "may16pub.dat",
+          "size": 142483575,
+          "crc": 1151949061
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-06",
+      "file": "jun16pub.zip",
+      "bytes": 12767906,
+      "zip_entries": [
+        {
+          "name": "jun16pub.dat",
+          "size": 142357092,
+          "crc": 1953106649
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-07",
+      "file": "jul16pub.zip",
+      "bytes": 12867263,
+      "zip_entries": [
+        {
+          "name": "jul16pub.dat",
+          "size": 142934349,
+          "crc": 2779848188
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-08",
+      "file": "aug16pub.zip",
+      "bytes": 13013997,
+      "zip_entries": [
+        {
+          "name": "aug16pub.dat",
+          "size": 144737445,
+          "crc": 3518133602
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-09",
+      "file": "sep16pub.zip",
+      "bytes": 13019377,
+      "zip_entries": [
+        {
+          "name": "sep16pub.dat",
+          "size": 145254789,
+          "crc": 3588444917
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-10",
+      "file": "oct16pub.zip",
+      "bytes": 12991789,
+      "zip_entries": [
+        {
+          "name": "oct16pub.dat",
+          "size": 144834447,
+          "crc": 1722182996
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-11",
+      "file": "nov16pub.zip",
+      "bytes": 12939803,
+      "zip_entries": [
+        {
+          "name": "nov16pub.dat",
+          "size": 144643296,
+          "crc": 3739384457
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2016-12",
+      "file": "dec16pub.zip",
+      "bytes": 12754125,
+      "zip_entries": [
+        {
+          "name": "dec16pub.dat",
+          "size": 143304288,
+          "crc": 2451293439
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-01",
+      "file": "jan17pub.zip",
+      "bytes": 13129352,
+      "zip_entries": [
+        {
+          "name": "jan17pub.dat",
+          "size": 150613463,
+          "crc": 2941115709
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-02",
+      "file": "feb17pub.zip",
+      "bytes": 13126718,
+      "zip_entries": [
+        {
+          "name": "feb17pub.dat",
+          "size": 150504354,
+          "crc": 2505793455
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-03",
+      "file": "mar17pub.zip",
+      "bytes": 13020660,
+      "zip_entries": [
+        {
+          "name": "mar17pub.dat",
+          "size": 149480331,
+          "crc": 1555456884
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-04",
+      "file": "apr17pub.zip",
+      "bytes": 13019893,
+      "zip_entries": [
+        {
+          "name": "apr17pub.dat",
+          "size": 149754605,
+          "crc": 2619761180
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-05",
+      "file": "may17pub.zip",
+      "bytes": 12869690,
+      "zip_entries": [
+        {
+          "name": "may17pub.dat",
+          "size": 148771623,
+          "crc": 578295987
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-06",
+      "file": "jun17pub.zip",
+      "bytes": 12869109,
+      "zip_entries": [
+        {
+          "name": "jun17pub.dat",
+          "size": 148202054,
+          "crc": 2184514900
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-07",
+      "file": "jul17pub.zip",
+      "bytes": 12877463,
+      "zip_entries": [
+        {
+          "name": "jul17pub.dat",
+          "size": 147776629,
+          "crc": 2684745033
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-08",
+      "file": "aug17pub.zip",
+      "bytes": 12871940,
+      "zip_entries": [
+        {
+          "name": "aug17pub.dat",
+          "size": 147172025,
+          "crc": 3032031226
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-09",
+      "file": "sep17pub.zip",
+      "bytes": 12895444,
+      "zip_entries": [
+        {
+          "name": "sep17pub.dat",
+          "size": 147415268,
+          "crc": 3414489898
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-10",
+      "file": "oct17pub.zip",
+      "bytes": 12868963,
+      "zip_entries": [
+        {
+          "name": "oct17pub.dat",
+          "size": 147765618,
+          "crc": 1655984604
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-11",
+      "file": "nov17pub.zip",
+      "bytes": 12856829,
+      "zip_entries": [
+        {
+          "name": "nov17pub.dat",
+          "size": 147948801,
+          "crc": 415291855
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2017-12",
+      "file": "dec17pub.zip",
+      "bytes": 12707013,
+      "zip_entries": [
+        {
+          "name": "dec17pub.dat",
+          "size": 146602456,
+          "crc": 2521588528
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-01",
+      "file": "jan18pub.zip",
+      "bytes": 12727864,
+      "zip_entries": [
+        {
+          "name": "jan18pub.dat",
+          "size": 146288142,
+          "crc": 2218132136
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-02",
+      "file": "feb18pub.zip",
+      "bytes": 12640684,
+      "zip_entries": [
+        {
+          "name": "feb18pub.dat",
+          "size": 145459314,
+          "crc": 2501836432
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-03",
+      "file": "mar18pub.zip",
+      "bytes": 12525542,
+      "zip_entries": [
+        {
+          "name": "mar18pub.dat",
+          "size": 144589445,
+          "crc": 1695637865
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-04",
+      "file": "apr18pub.zip",
+      "bytes": 12566751,
+      "zip_entries": [
+        {
+          "name": "apr18pub.dat",
+          "size": 145255110,
+          "crc": 483518459
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-05",
+      "file": "may18pub.zip",
+      "bytes": 12487801,
+      "zip_entries": [
+        {
+          "name": "may18pub.dat",
+          "size": 144465321,
+          "crc": 2215542951
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-06",
+      "file": "jun18pub.zip",
+      "bytes": 12492711,
+      "zip_entries": [
+        {
+          "name": "jun18pub.dat",
+          "size": 143831688,
+          "crc": 3666351946
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-07",
+      "file": "jul18pub.zip",
+      "bytes": 12442775,
+      "zip_entries": [
+        {
+          "name": "jul18pub.dat",
+          "size": 142719577,
+          "crc": 4121326758
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-08",
+      "file": "aug18pub.zip",
+      "bytes": 12421028,
+      "zip_entries": [
+        {
+          "name": "aug18pub.dat",
+          "size": 143269126,
+          "crc": 2573981269
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-09",
+      "file": "sep18pub.zip",
+      "bytes": 12477420,
+      "zip_entries": [
+        {
+          "name": "sep18pub.dat",
+          "size": 144106963,
+          "crc": 2918639431
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-10",
+      "file": "oct18pub.zip",
+      "bytes": 12448028,
+      "zip_entries": [
+        {
+          "name": "oct18pub.dat",
+          "size": 143640497,
+          "crc": 557781469
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-11",
+      "file": "nov18pub.zip",
+      "bytes": 12363587,
+      "zip_entries": [
+        {
+          "name": "nov18pub.dat",
+          "size": 143193050,
+          "crc": 1618114697
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2018-12",
+      "file": "dec18pub.zip",
+      "bytes": 12265027,
+      "zip_entries": [
+        {
+          "name": "dec18pub.dat",
+          "size": 142186044,
+          "crc": 1794381754
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-01",
+      "file": "jan19pub.zip",
+      "bytes": 12329372,
+      "zip_entries": [
+        {
+          "name": "jan19pub.dat",
+          "size": 142016875,
+          "crc": 3193969105
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-02",
+      "file": "feb19pub.zip",
+      "bytes": 12213954,
+      "zip_entries": [
+        {
+          "name": "feb19pub.dat",
+          "size": 140986846,
+          "crc": 1409874388
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-03",
+      "file": "mar19pub.zip",
+      "bytes": 12106506,
+      "zip_entries": [
+        {
+          "name": "mar19pub.dat",
+          "size": 140360220,
+          "crc": 3927954553
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-04",
+      "file": "apr19pub.zip",
+      "bytes": 12149816,
+      "zip_entries": [
+        {
+          "name": "apr19pub.dat",
+          "size": 141149008,
+          "crc": 2932011493
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-05",
+      "file": "may19pub.zip",
+      "bytes": 12015775,
+      "zip_entries": [
+        {
+          "name": "may19pub.dat",
+          "size": 139710571,
+          "crc": 3427952517
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-06",
+      "file": "jun19pub.zip",
+      "bytes": 12089855,
+      "zip_entries": [
+        {
+          "name": "jun19pub.dat",
+          "size": 139710571,
+          "crc": 3687369651
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-07",
+      "file": "jul19pub.zip",
+      "bytes": 12037916,
+      "zip_entries": [
+        {
+          "name": "jul19pub.dat",
+          "size": 138633495,
+          "crc": 2769377724
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-08",
+      "file": "aug19pub.zip",
+      "bytes": 12103364,
+      "zip_entries": [
+        {
+          "name": "aug19pub.dat",
+          "size": 139729590,
+          "crc": 74369439
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-09",
+      "file": "sep19pub.zip",
+      "bytes": 12021882,
+      "zip_entries": [
+        {
+          "name": "sep19pub.dat",
+          "size": 139356217,
+          "crc": 1528569922
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-10",
+      "file": "oct19pub.zip",
+      "bytes": 12017846,
+      "zip_entries": [
+        {
+          "name": "oct19pub.dat",
+          "size": 139358219,
+          "crc": 819448216
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-11",
+      "file": "nov19pub.zip",
+      "bytes": 11963057,
+      "zip_entries": [
+        {
+          "name": "nov19pub.dat",
+          "size": 138988850,
+          "crc": 3415632734
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2019-12",
+      "file": "dec19pub.zip",
+      "bytes": 11979982,
+      "zip_entries": [
+        {
+          "name": "dec19pub.dat",
+          "size": 139102964,
+          "crc": 3131073605
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-01",
+      "file": "jan20pub.zip",
+      "bytes": 11973512,
+      "zip_entries": [
+        {
+          "name": "jan20pub.dat",
+          "size": 138835697,
+          "crc": 1123894878
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-02",
+      "file": "feb20pub.zip",
+      "bytes": 12031535,
+      "zip_entries": [
+        {
+          "name": "feb20pub.dat",
+          "size": 139387248,
+          "crc": 3662101156
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-03",
+      "file": "mar20pub.zip",
+      "bytes": 11094474,
+      "zip_entries": [
+        {
+          "name": "mar20pub.dat",
+          "size": 131709578,
+          "crc": 3146893836
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-04",
+      "file": "apr20pub.zip",
+      "bytes": 10863420,
+      "zip_entries": [
+        {
+          "name": "apr20pub.dat",
+          "size": 129511382,
+          "crc": 809286851
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-05",
+      "file": "may20pub.zip",
+      "bytes": 10563770,
+      "zip_entries": [
+        {
+          "name": "may20pub.dat",
+          "size": 126683557,
+          "crc": 3338094835
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-06",
+      "file": "jun20pub.zip",
+      "bytes": 10195966,
+      "zip_entries": [
+        {
+          "name": "jun20pub.dat",
+          "size": 123487364,
+          "crc": 1169441101
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-07",
+      "file": "jul20pub.zip",
+      "bytes": 10351744,
+      "zip_entries": [
+        {
+          "name": "jul20pub.dat",
+          "size": 124226102,
+          "crc": 3316335515
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-08",
+      "file": "aug20pub.zip",
+      "bytes": 10619233,
+      "zip_entries": [
+        {
+          "name": "aug20pub.dat",
+          "size": 126574448,
+          "crc": 3168279905
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-09",
+      "file": "sep20pub.zip",
+      "bytes": 11527237,
+      "zip_entries": [
+        {
+          "name": "sep20pub.dat",
+          "size": 133581448,
+          "crc": 2470537822
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-10",
+      "file": "oct20pub.zip",
+      "bytes": 11675085,
+      "zip_entries": [
+        {
+          "name": "oct20pub.dat",
+          "size": 135377242,
+          "crc": 1402505150
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-11",
+      "file": "nov20pub.zip",
+      "bytes": 11518334,
+      "zip_entries": [
+        {
+          "name": "nov20pub.dat",
+          "size": 134256122,
+          "crc": 1734741272
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2020-12",
+      "file": "dec20pub.zip",
+      "bytes": 11236846,
+      "zip_entries": [
+        {
+          "name": "dec20pub.dat",
+          "size": 132168036,
+          "crc": 2337293563
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-01",
+      "file": "jan21pub.zip",
+      "bytes": 11401854,
+      "zip_entries": [
+        {
+          "name": "jan21pub.dat",
+          "size": 133686553,
+          "crc": 391028347
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-02",
+      "file": "feb21pub.zip",
+      "bytes": 11321871,
+      "zip_entries": [
+        {
+          "name": "feb21pub.dat",
+          "size": 132813681,
+          "crc": 3566936587
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-03",
+      "file": "mar21pub.zip",
+      "bytes": 11163373,
+      "zip_entries": [
+        {
+          "name": "mar21pub.dat",
+          "size": 131488357,
+          "crc": 4257081078
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-04",
+      "file": "apr21pub.zip",
+      "bytes": 11408870,
+      "zip_entries": [
+        {
+          "name": "apr21pub.dat",
+          "size": 133582449,
+          "crc": 3576708476
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-05",
+      "file": "may21pub.zip",
+      "bytes": 11312553,
+      "zip_entries": [
+        {
+          "name": "may21pub.dat",
+          "size": 132209077,
+          "crc": 37329507
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-06",
+      "file": "jun21pub.zip",
+      "bytes": 11051888,
+      "zip_entries": [
+        {
+          "name": "jun21pub.dat",
+          "size": 129401272,
+          "crc": 1483557089
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-07",
+      "file": "jul21pub.zip",
+      "bytes": 11072787,
+      "zip_entries": [
+        {
+          "name": "jul21pub.dat",
+          "size": 129221092,
+          "crc": 1316366661
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-08",
+      "file": "aug21pub.zip",
+      "bytes": 11051111,
+      "zip_entries": [
+        {
+          "name": "aug21pub.dat",
+          "size": 129537408,
+          "crc": 1307743173
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-09",
+      "file": "sep21pub.zip",
+      "bytes": 10822553,
+      "zip_entries": [
+        {
+          "name": "sep21pub.dat",
+          "size": 127999872,
+          "crc": 2538162206
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-10",
+      "file": "oct21pub.zip",
+      "bytes": 10955713,
+      "zip_entries": [
+        {
+          "name": "oct21pub.dat",
+          "size": 129232103,
+          "crc": 3046211644
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-11",
+      "file": "nov21pub.zip",
+      "bytes": 10715998,
+      "zip_entries": [
+        {
+          "name": "nov21pub.dat",
+          "size": 127502375,
+          "crc": 3240703820
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2021-12",
+      "file": "dec21pub.zip",
+      "bytes": 10678609,
+      "zip_entries": [
+        {
+          "name": "dec21pub.dat",
+          "size": 127616489,
+          "crc": 3929366813
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-01",
+      "file": "jan22pub.zip",
+      "bytes": 10793823,
+      "zip_entries": [
+        {
+          "name": "jan22pub.dat",
+          "size": 128128000,
+          "crc": 2042266854
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-02",
+      "file": "feb22pub.zip",
+      "bytes": 10804472,
+      "zip_entries": [
+        {
+          "name": "feb22pub.dat",
+          "size": 128362234,
+          "crc": 3846374851
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-03",
+      "file": "mar22pub.zip",
+      "bytes": 10602135,
+      "zip_entries": [
+        {
+          "name": "mar22pub.dat",
+          "size": 126830704,
+          "crc": 1148213542
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-04",
+      "file": "apr22pub.zip",
+      "bytes": 10848927,
+      "zip_entries": [
+        {
+          "name": "apr22pub.dat",
+          "size": 129158029,
+          "crc": 3002262221
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-05",
+      "file": "may22pub.zip",
+      "bytes": 10956281,
+      "zip_entries": [
+        {
+          "name": "may22pub.dat",
+          "size": 130095966,
+          "crc": 2800350455
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-06",
+      "file": "jun22pub.zip",
+      "bytes": 10773700,
+      "zip_entries": [
+        {
+          "name": "jun22pub.dat",
+          "size": 128126999,
+          "crc": 3236721522
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-07",
+      "file": "jul22pub.zip",
+      "bytes": 10717753,
+      "zip_entries": [
+        {
+          "name": "jul22pub.dat",
+          "size": 127211084,
+          "crc": 2972194738
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-08",
+      "file": "aug22pub.zip",
+      "bytes": 10793610,
+      "zip_entries": [
+        {
+          "name": "aug22pub.dat",
+          "size": 128059932,
+          "crc": 1558239104
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-09",
+      "file": "sep22pub.zip",
+      "bytes": 10681366,
+      "zip_entries": [
+        {
+          "name": "sep22pub.dat",
+          "size": 127319192,
+          "crc": 1316091355
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-10",
+      "file": "oct22pub.zip",
+      "bytes": 10622961,
+      "zip_entries": [
+        {
+          "name": "oct22pub.dat",
+          "size": 126775649,
+          "crc": 2860188441
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-11",
+      "file": "nov22pub.zip",
+      "bytes": 10526869,
+      "zip_entries": [
+        {
+          "name": "nov22pub.dat",
+          "size": 126223097,
+          "crc": 2279437523
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2022-12",
+      "file": "dec22pub.zip",
+      "bytes": 10418693,
+      "zip_entries": [
+        {
+          "name": "dec22pub.dat",
+          "size": 125614489,
+          "crc": 3905391772
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-01",
+      "file": "jan23pub.zip",
+      "bytes": 9928914,
+      "zip_entries": [
+        {
+          "name": "jan23pub.dat",
+          "size": 126107982,
+          "crc": 9507722
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-02",
+      "file": "feb23pub.zip",
+      "bytes": 9758358,
+      "zip_entries": [
+        {
+          "name": "feb23pub.dat",
+          "size": 124878754,
+          "crc": 771386618
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-03",
+      "file": "mar23pub.zip",
+      "bytes": 9698484,
+      "zip_entries": [
+        {
+          "name": "mar23pub.dat",
+          "size": 124601477,
+          "crc": 1068940627
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-04",
+      "file": "apr23pub.zip",
+      "bytes": 9927023,
+      "zip_entries": [
+        {
+          "name": "apr23pub.dat",
+          "size": 126924798,
+          "crc": 3054162581
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-05",
+      "file": "may23pub.zip",
+      "bytes": 10015716,
+      "zip_entries": [
+        {
+          "name": "may23pub.dat",
+          "size": 127686559,
+          "crc": 878451773
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-06",
+      "file": "jun23pub.zip",
+      "bytes": 10032393,
+      "zip_entries": [
+        {
+          "name": "jun23pub.dat",
+          "size": 127618491,
+          "crc": 3686665988
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-07",
+      "file": "jul23pub.zip",
+      "bytes": 10089732,
+      "zip_entries": [
+        {
+          "name": "jul23pub.dat",
+          "size": 127551424,
+          "crc": 3087814834
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-08",
+      "file": "aug23pub.zip",
+      "bytes": 10150794,
+      "zip_entries": [
+        {
+          "name": "aug23pub.dat",
+          "size": 128057930,
+          "crc": 1470002303
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-09",
+      "file": "sep23pub.zip",
+      "bytes": 10009825,
+      "zip_entries": [
+        {
+          "name": "sep23pub.dat",
+          "size": 126791665,
+          "crc": 1114078937
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-10",
+      "file": "oct23pub.zip",
+      "bytes": 10155785,
+      "zip_entries": [
+        {
+          "name": "oct23pub.dat",
+          "size": 128068941,
+          "crc": 1877748306
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-11",
+      "file": "nov23pub.zip",
+      "bytes": 10019000,
+      "zip_entries": [
+        {
+          "name": "nov23pub.dat",
+          "size": 127043917,
+          "crc": 32234824
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2023-12",
+      "file": "dec23pub.zip",
+      "bytes": 9947069,
+      "zip_entries": [
+        {
+          "name": "dec23pub.dat",
+          "size": 126958832,
+          "crc": 245144261
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-01",
+      "file": "jan24pub.zip",
+      "bytes": 10494185,
+      "zip_entries": [
+        {
+          "name": "jan24pub.dat",
+          "size": 126928802,
+          "crc": 2019731874
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-02",
+      "file": "feb24pub.zip",
+      "bytes": 10488203,
+      "zip_entries": [
+        {
+          "name": "feb24pub.dat",
+          "size": 126910784,
+          "crc": 2312207615
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-03",
+      "file": "mar24pub.zip",
+      "bytes": 10231860,
+      "zip_entries": [
+        {
+          "name": "mar24pub.dat",
+          "size": 124705581,
+          "crc": 4118937853
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-04",
+      "file": "apr24pub.zip",
+      "bytes": 10437637,
+      "zip_entries": [
+        {
+          "name": "apr24pub.dat",
+          "size": 126976850,
+          "crc": 1675676184
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-05",
+      "file": "may24pub.zip",
+      "bytes": 10480985,
+      "zip_entries": [
+        {
+          "name": "may24pub.dat",
+          "size": 127071945,
+          "crc": 1337247247
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-06",
+      "file": "jun24pub.zip",
+      "bytes": 10518654,
+      "zip_entries": [
+        {
+          "name": "jun24pub.dat",
+          "size": 126238112,
+          "crc": 263315384
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-07",
+      "file": "jul24pub.zip",
+      "bytes": 10601505,
+      "zip_entries": [
+        {
+          "name": "jul24pub.dat",
+          "size": 126284158,
+          "crc": 280042662
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-08",
+      "file": "aug24pub.zip",
+      "bytes": 10660712,
+      "zip_entries": [
+        {
+          "name": "aug24pub.dat",
+          "size": 127158031,
+          "crc": 445631753
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-09",
+      "file": "sep24pub.zip",
+      "bytes": 10597677,
+      "zip_entries": [
+        {
+          "name": "sep24pub.dat",
+          "size": 126716590,
+          "crc": 3316680610
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-10",
+      "file": "oct24pub.zip",
+      "bytes": 10553649,
+      "zip_entries": [
+        {
+          "name": "oct24pub.dat",
+          "size": 126513387,
+          "crc": 117424359
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-11",
+      "file": "nov24pub.zip",
+      "bytes": 10546151,
+      "zip_entries": [
+        {
+          "name": "nov24pub.dat",
+          "size": 126812686,
+          "crc": 1440553557
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2024-12",
+      "file": "dec24pub.zip",
+      "bytes": 10526140,
+      "zip_entries": [
+        {
+          "name": "dec24pub.dat",
+          "size": 126869743,
+          "crc": 1330302702
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-01",
+      "file": "jan25pub.zip",
+      "bytes": 10479098,
+      "zip_entries": [
+        {
+          "name": "jan25pub.dat",
+          "size": 125825700,
+          "crc": 3452677596
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-02",
+      "file": "feb25pub.zip",
+      "bytes": 10414069,
+      "zip_entries": [
+        {
+          "name": "feb25pub.dat",
+          "size": 125153028,
+          "crc": 3198376636
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-03",
+      "file": "mar25pub.zip",
+      "bytes": 10202310,
+      "zip_entries": [
+        {
+          "name": "mar25pub.dat",
+          "size": 123065943,
+          "crc": 724228751
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-04",
+      "file": "apr25pub.zip",
+      "bytes": 10234104,
+      "zip_entries": [
+        {
+          "name": "apr25pub.dat",
+          "size": 123825702,
+          "crc": 58691076
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-05",
+      "file": "may25pub.zip",
+      "bytes": 10221138,
+      "zip_entries": [
+        {
+          "name": "may25pub.dat",
+          "size": 123584461,
+          "crc": 1698067616
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-06",
+      "file": "jun25pub.zip",
+      "bytes": 10182693,
+      "zip_entries": [
+        {
+          "name": "jun25pub.dat",
+          "size": 123030908,
+          "crc": 2406560637
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-07",
+      "file": "jul25pub.zip",
+      "bytes": 10126055,
+      "zip_entries": [
+        {
+          "name": "jul25pub.dat",
+          "size": 122374252,
+          "crc": 2325758401
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-08",
+      "file": "aug25pub.zip",
+      "bytes": 10022432,
+      "zip_entries": [
+        {
+          "name": "aug25pub.dat",
+          "size": 125263138,
+          "crc": 3468571643
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-09",
+      "file": "sep25pub.zip",
+      "bytes": 9936918,
+      "zip_entries": [
+        {
+          "name": "sep25pub.dat",
+          "size": 124851727,
+          "crc": 1717021534
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-11",
+      "file": "nov25pub.zip",
+      "bytes": 9499778,
+      "zip_entries": [
+        {
+          "name": "nov25pub.dat",
+          "size": 121844723,
+          "crc": 2708444220
+        }
+      ],
+      "duplicate_keys": 0
+    },
+    {
+      "period": "2025-12",
+      "file": "dec25pub.zip",
+      "bytes": 9489559,
+      "zip_entries": [
+        {
+          "name": "dec25pub.dat",
+          "size": 121492371,
+          "crc": 2995976865
+        }
+      ],
+      "duplicate_keys": 0
+    }
+  ]
+}
