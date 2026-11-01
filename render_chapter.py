@@ -61,13 +61,13 @@ def main():
     template=(ROOT/'chapter.template.html').read_text(encoding='utf-8')
     for k,v in snippets.items(): template=template.replace('{{'+k+'}}',v)
     assert '{{' not in template
-    (ROOT/'index.html').write_text(template,encoding='utf-8')
+    (ROOT/'cps-duration.html').write_text(template,encoding='utf-8')
     payload={'weighted':rates.to_dict('records'),'unweighted':pd.read_csv(ROOT/'duration_rates_unweighted.csv').to_dict('records')}
     (ROOT/'data.js').write_text('window.CPS_ESTIMATES = '+json.dumps(payload,allow_nan=False)+';',encoding='utf-8')
     versions={'python':platform.python_version(),'pandas':pd.__version__,'numpy':np.__version__,'scipy':scipy.__version__,'statsmodels':statsmodels.__version__,'matplotlib':matplotlib.__version__}
     (ROOT/'versions.json').write_text(json.dumps(versions,indent=2))
     with zipfile.ZipFile(ROOT/'reproduction.zip','w',zipfile.ZIP_DEFLATED) as z:
-        for f in ['README.md','requirements.txt','build_panel.py','bls_thresholds.py','analyze.py','render_chapter.py','chapter.template.html','style.css','explorer.js',
+        for f in ['README.md','requirements.txt','build_panel.py','bls_thresholds.py','analyze.py','render_chapter.py','chapter.template.html','style.css','portfolio.css','portfolio.js','explorer.js',
                   'occupation_crosswalk.csv','duration_rates.csv','duration_rates_unweighted.csv','linkage_diagnostics.csv','results.json','input_manifest.json','versions.json','transition-rates.svg','competing-outcomes.svg']:
             z.write(ROOT/f,f)
     print('Chapter and reproduction package generated.',flush=True)
