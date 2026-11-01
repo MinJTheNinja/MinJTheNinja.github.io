@@ -1,9 +1,182 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Research · Minjong Sung</title><meta name="description" content="Economics research on technology, migration, and labor markets, with reproducible analyses, method notes, and an evolving research journal."><meta name="color-scheme" content="light dark"><link rel="stylesheet" href="/portfolio.css"><script src="/portfolio.js" defer></script></head><body><a class="skip" href="#main">Skip to content</a><header class="site-header"><a class="identity" href="/">Minjong Sung<span>Economics · Research notebook</span></a><nav class="site-nav" aria-label="Main navigation"><a href="/#research" aria-current="page">Research</a><a href="/notebook.html">Notebook</a><a href="/journal.html">Journal</a><a href="/#about">About</a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark theme" aria-pressed="false">◐</button></nav></header>
-<main id="main" class="container">
-<div class="hero"><div><p class="eyebrow">Independent research · Labor economics &amp; technology</p><h1>How technology<br>reshapes work.</h1><p class="lede">I’m Minjong Sung. I study how technology and labor-market frictions shape workers’ opportunities, with a focus on migration, occupational exposure, and job matching.</p><div class="actions"><a class="button primary" href="#research">Explore the research ↘</a><a class="button" href="/notebook.html">Open the notebook →</a></div></div><aside class="hero-aside" aria-label="Ways into the research"><p class="label">FOLLOW A QUESTION</p><ol><li><a href="#research"><b>01</b> Examine the evidence</a></li><li><a href="/notebook.html#notes"><b>02</b> Inspect the reasoning</a></li><li><a href="/journal.html"><b>03</b> Follow the revisions</a></li></ol></aside></div>
-<section id="research" class="section"><div class="section-heading"><div><span class="section-no">01 / Research</span><h2>Questions, tested against data.</h2></div><span class="meta">2 public analyses</span></div><p class="section-note">Each study opens with its central result and interpretation limits. Methods, robustness checks, and available replication materials follow.</p>
-<article class="project-row"><div><span class="project-index">01</span><span class="status available">Analysis available</span></div><div><h3><a href="/cps-duration.html">Graduate unemployment<br>&amp; the jobs that follow</a></h3><p class="question">Does longer unemployment predict next-month entry into an occupation that typically requires less than a bachelor’s degree?</p><p class="meta">Monthly CPS · 2011–2025<br>Linked transitions · Adjusted models · Competing risks</p><div class="text-links"><a href="/cps-duration.html">Read the analysis →</a><a href="/cps-duration.html#sources">Code &amp; data</a><a href="/notebook.html#note-denominators">Reasoning note</a></div></div><div class="project-side"><span class="label">CENTRAL RESULT</span><p>Below-BA entry risk falls with elapsed unemployment in both birth groups.</p><span class="label">INTERPRETATION LIMIT</span><p>An observed transition does not identify a worker’s willingness to accept a lower-match job.</p></div></article>
-<article class="project-row"><div><span class="project-index">02</span><span class="status available">Descriptive analysis</span></div><div><h3><a href="/ai-exposure.html">AI exposure &amp;<br>immigrant workers</a></h3><p class="question">How does occupational AI exposure differ between immigrant and native-born workers in the United States?</p><p class="meta">O*NET · Felten et al. (2021) · IPUMS CPS 2017–2019<br>AIOE replication · Descriptive comparison</p><div class="text-links"><a href="/ai-exposure.html">Read the overview →</a><a href="https://minjtheninja.github.io/ai_immigrant_labor/">Original analysis</a><a href="/notebook.html#note-exposure">Measurement note</a></div></div><div class="project-side"><span class="label">CENTRAL RESULT</span><p>The published analysis reports lower average AI exposure among immigrant workers.</p><span class="label">INTERPRETATION LIMIT</span><p>Exposure measures overlap with AI capabilities; it does not determine job loss or complementarity.</p></div></article></section>
-<section class="section"><div class="section-heading"><div><span class="section-no">02 / Notebook</span><h2>The reasoning behind the results.</h2></div><a href="/notebook.html">All notes, concepts &amp; questions →</a></div><div class="notebook-grid"><article class="note-preview"><span class="label">METHOD NOTE · CPS STUDY</span><h3><a href="/notebook.html#note-denominators">The denominator changes the question.</a></h3><p>Why the risk of entering a below-degree job can fall even when its share among successful jobseekers rises.</p><a class="source-link" href="/cps-duration.html#patterns">Trace to the evidence ↗</a></article><article class="note-preview"><span class="label">MEASUREMENT NOTE · AIOE STUDY</span><h3><a href="/notebook.html#note-exposure">Exposure is only the first measurement.</a></h3><p>What an occupational AI index can establish, and what requires observed wages, employment, or tasks.</p><a class="source-link" href="/ai-exposure.html#limits">Trace to the study limits ↗</a></article></div></section>
-<section class="section about" id="about"><div><span class="section-no">03 / About</span><h2>Working through<br>economic questions.</h2></div><div><p>I’m interested in the relationship between technology, migration, and workers’ outside options. This site collects my empirical projects and the measurement decisions behind them.</p><p class="section-note">The notebook connects explanations and open questions to the relevant evidence. The journal records dated clarifications and follow-up plans. Analysis dates are kept separate from website updates.</p><div class="text-links"><a href="https://github.com/MinJTheNinja">GitHub profile ↗</a><a href="https://github.com/MinJTheNinja/MinJTheNinja.github.io">Site source ↗</a><a href="/journal.html">Read the journal →</a></div></div></section>
-</main><footer class="site-footer"><span>Minjong Sung · Independent economics research</span><span><a href="https://github.com/MinJTheNinja">GitHub</a> · <a href="/journal.html">Research updates</a> · Updated 1 November 2026</span></footer></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Labor &amp; Monetary Economics · Minjong Sung</title>
+  <meta name="description" content="Independent research in labor economics and monetary economics: migration, job matching, digital money, and the demand for liquidity.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="stylesheet" href="/portfolio.css">
+  <script src="/portfolio.js" defer></script>
+  <style>
+    .home{--labor:#285b58;--money:#8b4932}
+    :root[data-theme="dark"] .home{--labor:#a1cebe;--money:#e5b294}
+    .home .opening{display:grid;grid-template-columns:1.4fr 1fr;gap:70px;align-items:end;padding:64px 0 42px}
+    .home .opening h1{font-size:clamp(45px,5.4vw,70px);line-height:1.07;margin:18px 0 0}
+    .home .opening .lede{font-size:17px;max-width:430px;margin:0 0 12px}
+    .home .fields{display:grid;grid-template-columns:1fr 1fr;border-block:1px solid var(--line);margin-bottom:48px}
+    .home .field{display:block;padding:30px 32px 28px;color:var(--ink);text-decoration:none;background:var(--card)}
+    .home .field:first-child{border-top:3px solid var(--labor);border-right:1px solid var(--line)}
+    .home .field:last-child{border-top:3px solid var(--money)}
+    .home .field:hover{background:var(--panel)}
+    .home .field-top{display:flex;justify-content:space-between;gap:15px;font:11px/1.5 ui-monospace,Consolas,monospace;letter-spacing:.09em;text-transform:uppercase}
+    .home .field:first-child .field-top{color:var(--labor)}
+    .home .field:last-child .field-top{color:var(--money)}
+    .home .field h2{font-size:clamp(34px,4vw,49px);margin:23px 0 16px}
+    .home .field p{max-width:390px;font-size:15px;color:var(--muted);margin:0 0 24px}
+    .home .field-footer{display:flex;justify-content:space-between;align-items:center;gap:15px;border-top:1px solid var(--line);padding-top:18px;font-size:12px}
+    .home .arrow{font-size:22px}
+    .home .research-area{padding:40px 0 48px;border-top:1px solid var(--line);scroll-margin-top:24px}
+    .home .area-heading{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin-bottom:29px}
+    .home .area-heading h2{font-size:37px;margin:10px 0 0}
+    .home .area-heading>p{font-size:15px;color:var(--muted);margin:0;align-self:end}
+    .home #labor .section-no{color:var(--labor)}
+    .home #monetary .section-no{color:var(--money)}
+    .home .money-grid{display:grid;grid-template-columns:1fr 1fr;gap:35px}
+    .home .question-card{border-top:2px solid var(--money);padding-top:24px}
+    .home .question-card h3{font-size:29px;margin:18px 0}
+    .home .question-card>p{font-size:15px;color:var(--muted)}
+    .home .question-card details{margin-top:22px;border-top:1px solid var(--line);padding:16px 0}
+    .home .question-card summary{cursor:pointer;font-size:14px;font-weight:600}
+    .home .question-card details p{font-size:14px}
+    .home .question-card .status{color:var(--money)}
+    .home .agenda-note{margin-top:26px;padding-top:16px;border-top:1px dashed var(--line);font-size:12px;color:var(--muted)}
+    .home .shared-notebook{padding:36px 0;border-top:1px solid var(--line)}
+    .home .shared-notebook h2{font-size:34px;margin:10px 0 20px}
+    .home .notebook-doors{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+    .home .notebook-doors>a{display:block;border-top:1px solid var(--line);padding:20px 0;color:var(--ink);text-decoration:none}
+    .home .notebook-doors strong{display:block;font:23px/1.25 Georgia,serif;margin:10px 0}
+    .home .notebook-doors p{font-size:13px;color:var(--muted);margin:0}
+    .home .about{padding:38px 0;border-top:1px solid var(--line)}
+    @media(max-width:800px){.home .opening{gap:30px}.home .field{padding:25px}.home .area-heading{gap:25px}}
+    @media(max-width:600px){
+      .home .opening{grid-template-columns:1fr;gap:25px;padding:39px 0 30px}
+      .home .opening h1{font-size:48px}
+      .home .fields{grid-template-columns:1fr;margin-bottom:35px}
+      .home .field:first-child{border-right:0;border-bottom:1px solid var(--line)}
+      .home .field{padding:24px}
+      .home .field h2{font-size:39px;margin:18px 0 13px}
+      .home .area-heading{grid-template-columns:1fr;gap:17px}
+      .home .area-heading h2{font-size:32px}
+      .home .money-grid{grid-template-columns:1fr;gap:22px}
+      .home .notebook-doors{grid-template-columns:1fr;gap:0}
+      .home .notebook-doors>a{padding:17px 0}
+      .home .research-area{padding:28px 0 36px}
+    }
+  </style>
+</head>
+<body class="home">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="identity" href="/">Minjong Sung<span>Economics · Research notebook</span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/#research" aria-current="page">Research</a>
+      <a href="/notebook.html">Notebook</a>
+      <a href="/journal.html">Journal</a>
+      <a href="/#about">About</a>
+      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark theme" aria-pressed="false">◐</button>
+    </nav>
+  </header>
+  <main id="main" class="container">
+    <section class="opening" aria-labelledby="intro-title">
+      <div><p class="eyebrow">Independent research / Economics</p><h1 id="intro-title">Work. Money.<br>Economic change.</h1></div>
+      <div>
+        <p class="lede">I’m Minjong Sung. I study how workers navigate changing economies, and how the design of money shapes economic behavior.</p>
+        <p class="meta">Two research fields · Empirical work &amp; theoretical questions</p>
+        <div class="text-links"><a href="#research">Explore both fields ↓</a><a href="#about">About me →</a></div>
+      </div>
+    </section>
+    <div class="fields" id="research" aria-label="Two research fields">
+      <a class="field" href="#labor">
+        <div class="field-top"><span>01 / Research field</span><span>Labor</span></div>
+        <h2>Labor<br>Economics.</h2>
+        <p>Migration, job matching, and the changing relationship between technology and work.</p>
+        <div class="field-footer"><span>Explore studies &amp; methods</span><span class="arrow" aria-hidden="true">↘</span></div>
+      </a>
+      <a class="field" href="#monetary">
+        <div class="field-top"><span>02 / Research field</span><span>Monetary</span></div>
+        <h2>Monetary<br>Economics.</h2>
+        <p>Money demand, digital currencies, and the institutions behind monetary systems.</p>
+        <div class="field-footer"><span>Explore questions &amp; research directions</span><span class="arrow" aria-hidden="true">↘</span></div>
+      </a>
+    </div>
+    <section id="labor" class="research-area" aria-labelledby="labor-title">
+      <div class="area-heading">
+        <div><span class="section-no">01 / Labor Economics</span><h2 id="labor-title">Workers, tasks &amp; opportunities.</h2></div>
+        <p>How do labor-market frictions and technological change shape the jobs people enter? Current public work examines occupational AI exposure and reemployment.</p>
+      </div>
+      <article class="project-row">
+        <div><span class="project-index">01</span><span class="status available">Analysis available</span></div>
+        <div>
+          <h3><a href="/cps-duration.html">Graduate unemployment<br>&amp; the jobs that follow</a></h3>
+          <p class="question">Does longer unemployment predict next-month entry into an occupation that typically requires less than a bachelor’s degree?</p>
+          <p class="meta">Monthly CPS · 2011–2025<br>Linked transitions · Adjusted models · Competing risks</p>
+          <div class="text-links"><a href="/cps-duration.html">Read the analysis →</a><a href="/cps-duration.html#sources">Code &amp; data</a><a href="/notebook.html#note-denominators">Reasoning note</a></div>
+        </div>
+        <div class="project-side"><span class="label">CENTRAL RESULT</span><p>Below-BA entry risk falls with elapsed unemployment in both birth groups.</p><span class="label">INTERPRETATION LIMIT</span><p>An observed transition does not identify a worker’s willingness to accept a lower-match job.</p></div>
+      </article>
+      <article class="project-row">
+        <div><span class="project-index">02</span><span class="status available">Descriptive analysis</span></div>
+        <div>
+          <h3><a href="/ai-exposure.html">AI exposure &amp;<br>immigrant workers</a></h3>
+          <p class="question">How does occupational AI exposure differ between immigrant and native-born workers in the United States?</p>
+          <p class="meta">O*NET · Felten et al. (2021) · IPUMS CPS 2017–2019<br>AIOE replication · Descriptive comparison</p>
+          <div class="text-links"><a href="/ai-exposure.html">Read the overview →</a><a href="https://minjtheninja.github.io/ai_immigrant_labor/">Original analysis</a><a href="/notebook.html#note-exposure">Measurement note</a></div>
+        </div>
+        <div class="project-side"><span class="label">CENTRAL RESULT</span><p>The published analysis reports lower average AI exposure among immigrant workers.</p><span class="label">INTERPRETATION LIMIT</span><p>Exposure measures overlap with AI capabilities; it does not determine job loss or complementarity.</p></div>
+      </article>
+      <p class="section-note"><a href="/notebook.html#idea-acceptance">Next question: separate job acceptance from the offers workers receive →</a></p>
+    </section>
+    <section id="monetary" class="research-area" aria-labelledby="monetary-title">
+      <div class="area-heading">
+        <div><span class="section-no">02 / Monetary Economics</span><h2 id="monetary-title">Liquidity, institutions &amp; digital money.</h2></div>
+        <p>How do new forms of money change the reasons people hold liquid balances, and the foundations of monetary influence?</p>
+      </div>
+      <div class="money-grid">
+        <article class="question-card" id="money-demand">
+          <span class="status">Research question · Exploratory</span>
+          <h3>Digital money &amp;<br>precautionary balances.</h3>
+          <p>Under what conditions could CBDCs or stablecoins change the liquid balances people hold against uncertain payment needs?</p>
+          <p class="meta">Money demand · Buffer stocks · Payment frictions</p>
+          <details><summary>Research direction &amp; open questions</summary>
+            <p><strong>Starting point.</strong> Examine how access to liquidity and payment timing enter the choice of a precautionary balance.</p>
+            <p><strong>Proposed approach.</strong> Compare changes in transaction frictions with changes in liquidity access and the risks attached to the monetary instrument.</p>
+            <p><strong>Open question.</strong> When would easier payments lower desired balances, and when might other costs or risks offset that effect?</p>
+            <p><strong>Stage.</strong> Question formation. No model result or empirical estimate is presented here.</p>
+          </details>
+        </article>
+        <article class="question-card" id="monetary-order">
+          <span class="status">Research question · Exploratory</span>
+          <h3>Digital currencies &amp;<br>the monetary order.</h3>
+          <p>When could innovation in payments change international monetary influence, and what role would financial institutions play?</p>
+          <p class="meta">CBDCs · Stablecoins · Monetary institutions</p>
+          <details><summary>Research direction &amp; open questions</summary>
+            <p><strong>Starting point.</strong> Separate payment convenience from the other services a currency and its financial system provide.</p>
+            <p><strong>Proposed approach.</strong> Develop a framework that distinguishes payment use, demand for liquid or safe assets, and institutional credibility.</p>
+            <p><strong>Open question.</strong> Under which assumptions would a change in payment technology also change currency choice or cross-border monetary influence?</p>
+            <p><strong>Stage.</strong> Question formation. Theoretical and empirical work remain to be developed.</p>
+          </details>
+        </article>
+      </div>
+      <p class="agenda-note">These monetary economics entries describe research questions. Completed analyses and new findings will be identified separately as the work develops.</p>
+    </section>
+    <section class="shared-notebook" aria-labelledby="notebook-title">
+      <span class="section-no">Across the research</span><h2 id="notebook-title">A shared research notebook.</h2>
+      <div class="notebook-doors">
+        <a href="/notebook.html#notes"><span class="label">01 / Reasoning</span><strong>Method notes →</strong><p>Follow the choices behind the existing labor studies.</p></a>
+        <a href="/notebook.html#concepts"><span class="label">02 / Understanding</span><strong>Concept library →</strong><p>Definitions, research uses, examples, and limits.</p></a>
+        <a href="/journal.html"><span class="label">03 / Development</span><strong>Research journal →</strong><p>Dated clarifications and the evidence behind revisions.</p></a>
+      </div>
+    </section>
+    <section class="about" id="about">
+      <div><span class="section-no">About</span><h2>Studying work.<br>Questioning money.</h2></div>
+      <div>
+        <p>I’m Minjong Sung. My research interests center on <strong>labor economics</strong> and <strong>monetary economics</strong>: how people find and evaluate work, and how money and financial institutions shape economic choices.</p>
+        <p class="section-note">This portfolio brings together empirical studies, method notes, and developing research questions. Each entry makes its stage and interpretation limits explicit.</p>
+        <div class="text-links"><a href="https://github.com/MinJTheNinja">GitHub profile ↗</a><a href="/journal.html">Research updates →</a><a href="#research">Back to the two fields ↑</a></div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><span>Minjong Sung · Independent economics research</span><span><a href="https://github.com/MinJTheNinja">GitHub</a> · <a href="/journal.html">Research updates</a> · Updated 1 November 2026</span></footer>
+</body>
+</html>
